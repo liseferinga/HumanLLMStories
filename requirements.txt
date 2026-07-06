@@ -1,0 +1,12 @@
+spacy==3.x
+transformers
+torch
+pandas
+numpy
+scipy
+scikit-learn
+sentence-transformers
+empath
+networkx
+matplotlib
+tqdm
