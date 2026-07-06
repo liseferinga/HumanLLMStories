@@ -1,12 +1,28 @@
-spacy==3.x
-transformers
-torch
-pandas
-numpy
-scipy
-scikit-learn
+# NLP & language models
+spacy>=3.0
+transformers>=4.0
 sentence-transformers
+torch
+
+# Translation
+sentencepiece
+sacremoses
+
+# Empath
 empath
+
+# Graph analysis
 networkx
+
+# ML & stats
+scikit-learn
+scipy
+numpy
+pandas
+
+# Visualization
 matplotlib
+
+# Utilities
 tqdm
+requests
