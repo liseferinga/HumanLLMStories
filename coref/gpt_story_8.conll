@@ -1,0 +1,135 @@
+#begin document (gpt_story_8); part 000
+gpt_story_8	0	0	*	LET()	-	-	-	-	-	*	-
+gpt_story_8	0	1	*	LET()	-	-	-	-	-	*	-
+gpt_story_8	0	2	Bloedige	SPEC(deeleigen)	-	-	-	-	-	PER	(0
+gpt_story_8	0	3	Lente	SPEC(deeleigen)	-	-	-	-	-	PER	0)
+gpt_story_8	0	4	*	LET()	-	-	-	-	-	*	-
+gpt_story_8	0	5	*	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(1
+gpt_story_8	0	1	eerste	TW(rang,prenom,stan)	-	-	-	-	-	*	-
+gpt_story_8	0	2	voorjaarszon	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	1)
+gpt_story_8	0	3	streelde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	4	het	LID(bep,stan,evon)	-	-	-	-	-	*	(2
+gpt_story_8	0	5	grasveld	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	2)
+gpt_story_8	0	6	,	LET()	-	-	-	-	-	*	-
+gpt_story_8	0	7	waar	VNW(vb,adv-pron,obl,vol,3o,getal)	-	-	-	-	-	*	-
+gpt_story_8	0	8	vrolijke	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(3
+gpt_story_8	0	9	lammetjes	N(soort,mv,dim)	-	-	-	-	-	*	3)
+gpt_story_8	0	10	dartelden	WW(pv,verl,mv)	-	-	-	-	-	*	-
+gpt_story_8	0	11	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	Toch	BW()	-	-	-	-	-	*	-
+gpt_story_8	0	1	hing	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	2	er	VNW(aanw,adv-pron,stan,red,3,getal)	-	-	-	-	-	*	-
+gpt_story_8	0	3	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(4
+gpt_story_8	0	4	vreemd	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_8	0	5	gevoel	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	4)
+gpt_story_8	0	6	in	VZ(init)	-	-	-	-	-	*	-
+gpt_story_8	0	7	de	LID(bep,stan,rest)	-	-	-	-	-	*	-
+gpt_story_8	0	8	lucht	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_8	0	9	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	Eveline	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(5)
+gpt_story_8	0	1	had	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	2	het	LID(bep,stan,evon)	-	-	-	-	-	*	(6
+gpt_story_8	0	3	al	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	6)
+gpt_story_8	0	4	dagen	N(soort,mv,basis)	-	-	-	-	-	*	-
+gpt_story_8	0	5	gevoeld	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+gpt_story_8	0	6	,	LET()	-	-	-	-	-	*	-
+gpt_story_8	0	7	als	VG(onder)	-	-	-	-	-	*	-
+gpt_story_8	0	8	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(7
+gpt_story_8	0	9	kille	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gpt_story_8	0	10	adem	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_8	0	11	in	VZ(init)	-	-	-	-	-	*	-
+gpt_story_8	0	12	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(8|(5)
+gpt_story_8	0	13	nek	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	8)|7)
+gpt_story_8	0	14	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	Terwijl	VG(onder)	-	-	-	-	-	*	-
+gpt_story_8	0	1	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(5)
+gpt_story_8	0	2	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(11|(5)
+gpt_story_8	0	3	tuin	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	11)
+gpt_story_8	0	4	in	VZ(fin)	-	-	-	-	-	*	-
+gpt_story_8	0	5	liep	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	6	,	LET()	-	-	-	-	-	*	-
+gpt_story_8	0	7	viel	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	8	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(13|(5)
+gpt_story_8	0	9	oog	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	13)
+gpt_story_8	0	10	op	VZ(init)	-	-	-	-	-	*	-
+gpt_story_8	0	11	iets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	12	vreemds	ADJ(postnom,basis,met-s)	-	-	-	-	-	*	-
+gpt_story_8	0	13	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	In	VZ(init)	-	-	-	-	-	*	-
+gpt_story_8	0	1	de	LID(bep,stan,rest)	-	-	-	-	-	*	(15
+gpt_story_8	0	2	bloeiende	WW(od,prenom,met-e)	-	-	-	-	-	*	-
+gpt_story_8	0	3	magnolia	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	15)
+gpt_story_8	0	4	hing	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	5	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(16
+gpt_story_8	0	6	geheimzinnige	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gpt_story_8	0	7	envelop	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	16)
+gpt_story_8	0	8	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	Haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(17|(16)
+gpt_story_8	0	1	vingers	N(soort,mv,basis)	-	-	-	-	-	*	17)
+gpt_story_8	0	2	trilden	WW(pv,verl,mv)	-	-	-	-	-	*	-
+gpt_story_8	0	3	terwijl	VG(onder)	-	-	-	-	-	*	-
+gpt_story_8	0	4	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(5)
+gpt_story_8	0	5	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gpt_story_8	0	6	opende	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	7	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	"	LET()	-	-	-	-	22	*	-
+gpt_story_8	0	1	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	22	*	(20)
+gpt_story_8	0	2	hebt	WW(pv,tgw,met-t)	-	-	-	-	22	*	-
+gpt_story_8	0	3	iets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	22	*	-
+gpt_story_8	0	4	gezien	WW(vd,vrij,zonder)	-	-	-	-	22	*	-
+gpt_story_8	0	5	wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	22	*	-
+gpt_story_8	0	6	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	22	*	(20)
+gpt_story_8	0	7	niet	BW()	-	-	-	-	22	*	-
+gpt_story_8	0	8	had	WW(pv,verl,ev)	-	-	-	-	22	*	-
+gpt_story_8	0	9	mogen	WW(inf,vrij,zonder)	-	-	-	-	22	*	-
+gpt_story_8	0	10	zien	WW(inf,vrij,zonder)	-	-	-	-	22	*	-
+gpt_story_8	0	11	,	LET()	-	-	-	-	22	*	-
+gpt_story_8	0	12	"	LET()	-	-	-	-	22	*	-
+gpt_story_8	0	13	las	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	14	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(5)
+gpt_story_8	0	15	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(23
+gpt_story_8	0	1	woorden	N(soort,mv,basis)	-	-	-	-	-	*	23)
+gpt_story_8	0	2	brandden	WW(pv,verl,mv)	-	-	-	-	-	*	-
+gpt_story_8	0	3	op	VZ(init)	-	-	-	-	-	*	-
+gpt_story_8	0	4	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(24|(5)
+gpt_story_8	0	5	netvlies	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	24)
+gpt_story_8	0	6	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(26
+gpt_story_8	0	1	schaduw	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	26)
+gpt_story_8	0	2	gleed	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	3	over	VZ(init)	-	-	-	-	-	*	-
+gpt_story_8	0	4	de	LID(bep,stan,rest)	-	-	-	-	-	*	(27
+gpt_story_8	0	5	zon	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	27)
+gpt_story_8	0	6	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	Eveline	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(5)
+gpt_story_8	0	1	keek	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	2	omhoog	BW()	-	-	-	-	-	*	-
+gpt_story_8	0	3	en	VG(neven)	-	-	-	-	-	*	-
+gpt_story_8	0	4	voelde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	5	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(29
+gpt_story_8	0	6	koude	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gpt_story_8	0	7	rilling	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	29)
+gpt_story_8	0	8	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_8	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	-
+gpt_story_8	0	1	lente	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_8	0	2	zou	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_8	0	3	nooit	BW()	-	-	-	-	-	*	-
+gpt_story_8	0	4	meer	VNW(onbep,grad,stan,vrij,zonder,comp)	-	-	-	-	-	*	-
+gpt_story_8	0	5	hetzelfde	ADJ(nom,basis,zonder,zonder-n)	-	-	-	-	-	*	-
+gpt_story_8	0	6	zijn	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gpt_story_8	0	7	.	LET()	-	-	-	-	-	*	-
+
+#end document

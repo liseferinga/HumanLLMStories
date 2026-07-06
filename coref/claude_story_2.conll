@@ -1,0 +1,270 @@
+#begin document (claude_story_2); part 000
+claude_story_2	0	0	*	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	*	LET()	-	-	-	-	-	*	-
+claude_story_2	0	2	De	LID(bep,stan,rest)	-	-	-	-	-	*	(0
+claude_story_2	0	3	laatste	ADJ(prenom,sup,met-e,stan)	-	-	-	-	-	*	-
+claude_story_2	0	4	maaltijd	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	0)
+claude_story_2	0	5	*	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	*	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Waarom	BW()	-	-	-	-	-	*	-
+claude_story_2	0	2	heb	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(1)
+claude_story_2	0	4	drie	TW(hoofd,prenom,stan)	-	-	-	-	-	*	(2
+claude_story_2	0	5	borden	N(soort,mv,basis)	-	-	-	-	-	*	2)
+claude_story_2	0	6	gedekt	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	7	?	LET()	-	-	-	-	-	*	-
+claude_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Marie	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(3)
+claude_story_2	0	2	komt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	3	ook	BW()	-	-	-	-	-	*	-
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Marie	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(3)
+claude_story_2	0	2	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	dood	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Niet	BW()	-	-	-	-	-	*	-
+claude_story_2	0	2	voor	VZ(init)	-	-	-	-	-	*	-
+claude_story_2	0	3	mij	VNW(pr,pron,obl,vol,1,ev)	-	-	-	-	-	*	(5)
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(0)
+claude_story_2	0	2	moet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	stoppen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	Het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+claude_story_2	0	1	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	2	al	BW()	-	-	-	-	-	*	-
+claude_story_2	0	3	twee	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+claude_story_2	0	4	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(3)
+claude_story_2	0	2	houdt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	3	van	VZ(init)	-	-	-	-	-	*	-
+claude_story_2	0	4	aardappelpuree	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(8)
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(9)
+claude_story_2	0	2	praat	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	tegen	VZ(init)	-	-	-	-	-	*	-
+claude_story_2	0	4	lege	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(10
+claude_story_2	0	5	stoelen	N(soort,mv,basis)	-	-	-	-	-	*	10)
+claude_story_2	0	6	!	LET()	-	-	-	-	-	*	-
+claude_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Soms	BW()	-	-	-	-	-	*	-
+claude_story_2	0	2	antwoordt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	3	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(3)
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_2	0	2	zegt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	3	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(3)
+claude_story_2	0	4	dan	BW()	-	-	-	-	-	*	-
+claude_story_2	0	5	?	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Dat	VG(onder)	-	-	-	-	-	*	-
+claude_story_2	0	2	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(13)
+claude_story_2	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	-
+claude_story_2	0	4	zoutpot	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_2	0	5	moet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	6	doorgeven	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	Dat	VG(onder)	-	-	-	-	-	*	-
+claude_story_2	0	1	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(14|(3)
+claude_story_2	0	2	glas	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	14)
+claude_story_2	0	3	leeg	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	4	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	Gewone	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(16
+claude_story_2	0	1	dingen	N(soort,mv,basis)	-	-	-	-	-	*	16)
+claude_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	3	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	En	VG(neven)	-	-	-	-	-	*	-
+claude_story_2	0	2	jij	VNW(pers,pron,nomin,vol,2v,ev)	-	-	-	-	-	*	(17)
+claude_story_2	0	3	gelooft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	4	dat	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_2	0	5	echt	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	6	?	LET()	-	-	-	-	-	*	-
+claude_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Geloven	WW(inf,nom,zonder,zonder-n)	-	-	-	-	-	*	-
+claude_story_2	0	2	?	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(18)
+claude_story_2	0	1	weet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	2	het	LID(bep,stan,evon)	-	-	-	-	-	*	-
+claude_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	4	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(14)
+claude_story_2	0	2	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	ongezond	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Ongezond	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	2	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	alleen	BW()	-	-	-	-	-	*	-
+claude_story_2	0	4	eten	WW(inf,nom,zonder,zonder-n)	-	-	-	-	-	*	-
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(20)
+claude_story_2	0	2	bent	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	3	gek	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	4	geworden	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Misschien	BW()	-	-	-	-	-	*	-
+claude_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	Maar	VG(neven)	-	-	-	-	-	*	-
+claude_story_2	0	1	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(21)
+claude_story_2	0	2	ben	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	niet	BW()	-	-	-	-	-	*	-
+claude_story_2	0	4	eenzaam	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(22)
+claude_story_2	0	2	kan	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(14)
+claude_story_2	0	4	niet	BW()	-	-	-	-	-	*	-
+claude_story_2	0	5	meer	VNW(onbep,grad,stan,vrij,zonder,comp)	-	-	-	-	-	*	-
+claude_story_2	0	6	aanzien	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Dan	BW()	-	-	-	-	-	*	-
+claude_story_2	0	2	kom	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(24)
+claude_story_2	0	4	niet	BW()	-	-	-	-	-	*	-
+claude_story_2	0	5	meer	VNW(onbep,grad,stan,vrij,zonder,comp)	-	-	-	-	-	*	-
+claude_story_2	0	6	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	2	dat	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_2	0	4	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(25)
+claude_story_2	0	5	wilt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	6	?	LET()	-	-	-	-	-	*	-
+claude_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(26)
+claude_story_2	0	2	wil	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	dat	VG(onder)	-	-	-	-	-	*	-
+claude_story_2	0	4	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(27)
+claude_story_2	0	5	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(3)
+claude_story_2	0	6	groet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	...	LET()	-	-	-	-	-	*	-
+claude_story_2	0	2	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Toe	VZ(fin)	-	-	-	-	-	*	-
+claude_story_2	0	2	dan	BW()	-	-	-	-	-	*	-
+claude_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	4	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Hallo	TSW()	-	-	-	-	-	*	-
+claude_story_2	0	2	Marie	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(3)
+claude_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	4	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Zie	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	2	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(30)
+claude_story_2	0	3	?	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(3)
+claude_story_2	0	1	lacht	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	2	naar	VZ(init)	-	-	-	-	-	*	-
+claude_story_2	0	3	je	VNW(pr,pron,obl,red,2v,getal)	-	-	-	-	-	*	(30)
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(33)
+claude_story_2	0	2	zie	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	niets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Omdat	VG(onder)	-	-	-	-	-	*	-
+claude_story_2	0	2	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(34)
+claude_story_2	0	3	niet	BW()	-	-	-	-	-	*	-
+claude_story_2	0	4	kijkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(35)
+claude_story_2	0	2	vertrek	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	4	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Blijf	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_2	0	2	voor	VZ(init)	-	-	-	-	-	*	-
+claude_story_2	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(0
+claude_story_2	0	4	maaltijd	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	0)
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Nee	TSW()	-	-	-	-	-	*	-
+claude_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	3	"	LET()	-	-	-	-	-	*	-
+
+claude_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_2	0	1	Marie	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(3)
+claude_story_2	0	2	vindt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_2	0	3	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+claude_story_2	0	4	jammer	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+#end document

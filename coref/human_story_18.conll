@@ -1,0 +1,651 @@
+#begin document (human_story_18); part 000
+human_story_18	0	0	Voor	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	1	altijd	BW()	-	-	-	-	-	*	-
+human_story_18	0	2	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+human_story_18	0	3	wordt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	4	wakker	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	5	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	6	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(1
+human_story_18	0	7	omhelzing	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	8	met	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	9	zichzelf	VNW(refl,pron,obl,nadr,3,getal)	-	-	-	-	-	*	(0)|1)
+human_story_18	0	10	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(3|(0)
+human_story_18	0	1	oor	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	2	op	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	3	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(5|(3)
+human_story_18	0	4	schouder	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	5)|3)
+human_story_18	0	5	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	6	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(7|(5)
+human_story_18	0	7	armen	N(soort,mv,basis)	-	-	-	-	-	*	-
+human_story_18	0	8	gekruist	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	9	over	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	10	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(9|(5)
+human_story_18	0	11	borsten	N(soort,mv,basis)	-	-	-	-	-	*	9)|7)
+human_story_18	0	12	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(11|(5)
+human_story_18	0	1	hoofd	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	2	nog	BW()	-	-	-	-	-	*	-
+human_story_18	0	3	vol	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	flarden	N(soort,mv,basis)	-	-	-	-	-	*	(13
+human_story_18	0	5	droom	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	13)|11)
+human_story_18	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(14
+human_story_18	0	1	kamer	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	14)
+human_story_18	0	2	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	3	gevuld	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	4	met	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	5	donkere	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(15
+human_story_18	0	6	schaduwen	N(soort,mv,basis)	-	-	-	-	-	*	15)
+human_story_18	0	7	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	8	maar	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	9	op	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	10	de	LID(bep,stan,rest)	-	-	-	-	-	*	(16
+human_story_18	0	11	muur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	12	tegenover	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	13	het	LID(bep,stan,evon)	-	-	-	-	-	*	(17
+human_story_18	0	14	bed	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	17)|16)
+human_story_18	0	15	licht	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	16	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(18
+human_story_18	0	17	grote	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	18	witte	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	19	vlek	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	18)
+human_story_18	0	20	op	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	21	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(18
+human_story_18	0	1	vlek	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	18)
+human_story_18	0	2	krijgt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	3	steeds	BW()	-	-	-	-	-	*	-
+human_story_18	0	4	meer	VNW(onbep,grad,stan,prenom,zonder,agr,comp)	-	-	-	-	-	*	-
+human_story_18	0	5	vorm	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(20|(21)
+human_story_18	0	1	trouwjurk	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	20)
+human_story_18	0	2	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	3	denkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	4	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Natuurlijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Vandaag	BW()	-	-	-	-	-	*	-
+human_story_18	0	1	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(0)
+human_story_18	0	3	trouwdag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Dromerig	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(24
+human_story_18	0	3	slaap	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	24)
+human_story_18	0	4	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	5	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	-
+human_story_18	0	7	dag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	8	die	VNW(betr,pron,stan,vol,persoon,getal)	-	-	-	-	-	*	(25)
+human_story_18	0	9	komen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	10	gaat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	11	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	12	komt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	13	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(25)
+human_story_18	0	14	langzaam	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	15	overeind	BW()	-	-	-	-	-	*	-
+human_story_18	0	16	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	17	stapt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	18	uit	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	19	bed	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	(17)
+human_story_18	0	20	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	21	schuifelt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	22	ernaartoe	BW()	-	-	-	-	-	*	-
+human_story_18	0	23	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(25)
+human_story_18	0	1	streelt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(29
+human_story_18	0	3	zachte	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	4	stof	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	29)
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Steekt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	1	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(30|(25)
+human_story_18	0	2	neus	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	30)
+human_story_18	0	3	tussen	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	de	LID(bep,stan,rest)	-	-	-	-	-	*	(32
+human_story_18	0	5	plooien	N(soort,mv,basis)	-	-	-	-	-	*	32)
+human_story_18	0	6	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	7	droomt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	8	nog	BW()	-	-	-	-	-	*	-
+human_story_18	0	9	even	BW()	-	-	-	-	-	*	-
+human_story_18	0	10	weg	BW()	-	-	-	-	-	*	-
+human_story_18	0	11	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Het	LID(bep,stan,evon)	-	-	-	-	-	*	(33
+human_story_18	0	1	licht	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	33)
+human_story_18	0	2	moet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	3	aan	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(25)
+human_story_18	0	1	wil	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(35|(25)
+human_story_18	0	3	jurk	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	35)
+human_story_18	0	4	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	5	het	LID(bep,stan,evon)	-	-	-	-	-	*	(33
+human_story_18	0	6	licht	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	33)
+human_story_18	0	7	zien	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	8	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+human_story_18	0	1	loopt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	maar	BW()	-	-	-	-	-	*	-
+human_story_18	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(39
+human_story_18	0	4	deur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	39)
+human_story_18	0	5	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	6	drukt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	7	op	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	8	het	LID(bep,stan,evon)	-	-	-	-	-	*	(40
+human_story_18	0	9	lichtknopje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	40)
+human_story_18	0	10	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Verward	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	kijkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+human_story_18	0	3	rond	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(14)
+human_story_18	0	1	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(14|(14)
+human_story_18	0	3	kamer	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	14)
+human_story_18	0	4	niet	BW()	-	-	-	-	-	*	-
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Deze	VNW(aanw,det,stan,prenom,met-e,rest)	-	-	-	-	-	*	(14
+human_story_18	0	1	kamer	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	14)
+human_story_18	0	2	kent	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	3	ze	VNW(pers,pron,stan,red,3,mv)	-	-	-	-	-	*	(32)
+human_story_18	0	4	niet	BW()	-	-	-	-	-	*	-
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Ongerust	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	maakt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+human_story_18	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(39
+human_story_18	0	4	deur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	39)
+human_story_18	0	5	open	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(39)
+human_story_18	0	1	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(39|(39)
+human_story_18	0	3	huis	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	39)
+human_story_18	0	4	helemaal	BW()	-	-	-	-	-	*	-
+human_story_18	0	5	niet	BW()	-	-	-	-	-	*	-
+human_story_18	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Wie	VNW(vb,pron,stan,vol,3p,getal)	-	-	-	-	-	*	-
+human_story_18	0	1	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	die	VNW(aanw,det,stan,prenom,zonder,rest)	-	-	-	-	-	*	(52
+human_story_18	0	3	oude	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	4	man	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	52)
+human_story_18	0	5	die	VNW(betr,pron,stan,vol,persoon,getal)	-	-	-	-	-	*	(52)
+human_story_18	0	6	daar	VNW(aanw,adv-pron,obl,vol,3o,getal)	-	-	-	-	-	*	-
+human_story_18	0	7	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	8	de	LID(bep,stan,rest)	-	-	-	-	-	*	(54
+human_story_18	0	9	stoel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	10	voor	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	11	de	LID(bep,stan,rest)	-	-	-	-	-	*	(55
+human_story_18	0	12	televisie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	55)|54)
+human_story_18	0	13	ligt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	14	te	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	15	slapen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+
+human_story_18	0	0	Tijd	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	1	om	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	2	daarover	BW()	-	-	-	-	-	*	-
+human_story_18	0	3	na	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	4	te	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	5	denken	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	6	heeft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	7	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(55)
+human_story_18	0	8	niet	BW()	-	-	-	-	-	*	-
+human_story_18	0	9	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	10	want	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	11	vandaag	BW()	-	-	-	-	-	*	-
+human_story_18	0	12	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	13	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(55)
+human_story_18	0	14	trouwdag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	15	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(55)
+human_story_18	0	1	moet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	zo	BW()	-	-	-	-	-	*	-
+human_story_18	0	3	snel	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	4	mogelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	5	naar	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	6	mama	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(59)
+human_story_18	0	7	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	8	naar	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	9	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(60|(55)
+human_story_18	0	10	ouderlijk	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	11	huis	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	60)
+human_story_18	0	12	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(55)
+human_story_18	0	1	trekt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(63
+human_story_18	0	3	witte	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	4	jurk	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	5	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	6	het	LID(bep,stan,evon)	-	-	-	-	-	*	(64
+human_story_18	0	7	hangertje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	64)|63)
+human_story_18	0	8	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	9	gaat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	10	door	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	11	de	LID(bep,stan,rest)	-	-	-	-	-	*	(65
+human_story_18	0	12	voordeur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	65)
+human_story_18	0	13	naar	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	14	buiten	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	15	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(66
+human_story_18	0	1	straat	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	66)
+human_story_18	0	2	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	3	nat	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	4	onder	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	5	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(67|(66)
+human_story_18	0	6	blote	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	7	voeten	N(soort,mv,basis)	-	-	-	-	-	*	67)
+human_story_18	0	8	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Nog	BW()	-	-	-	-	-	*	-
+human_story_18	0	1	altijd	BW()	-	-	-	-	-	*	-
+human_story_18	0	2	weet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	3	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(66)
+human_story_18	0	4	niet	BW()	-	-	-	-	-	*	-
+human_story_18	0	5	waar	VNW(vb,adv-pron,obl,vol,3o,getal)	-	-	-	-	-	*	-
+human_story_18	0	6	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(66)
+human_story_18	0	7	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	8	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Dolend	WW(od,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	kijkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(66)
+human_story_18	0	3	rond	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	4	naar	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	5	mensen	N(soort,mv,basis)	-	-	-	-	-	*	(72)
+human_story_18	0	6	die	VNW(betr,pron,stan,vol,persoon,getal)	-	-	-	-	-	*	(72)
+human_story_18	0	7	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(66)
+human_story_18	0	8	kunnen	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	9	helpen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	10	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(52)
+human_story_18	0	1	wordt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	wakker	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	3	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(1
+human_story_18	0	5	omhelzing	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	6	met	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	7	het	LID(bep,stan,evon)	-	-	-	-	-	*	(77
+human_story_18	0	8	boek	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	9	op	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	10	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(78|(52)
+human_story_18	0	11	schoot	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	78)|77)|1)
+human_story_18	0	12	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(80|(52)
+human_story_18	0	1	oor	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	80)
+human_story_18	0	2	ligt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	3	op	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(82|(80)
+human_story_18	0	5	schouder	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	82)
+human_story_18	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(84|(80)
+human_story_18	0	1	nek	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	84)
+human_story_18	0	2	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	3	rug	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(86)
+human_story_18	0	4	doen	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	5	pijn	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(87)
+human_story_18	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Alweer	BW()	-	-	-	-	-	*	-
+human_story_18	0	1	ben	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(21)
+human_story_18	0	3	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(89|(21)
+human_story_18	0	5	stoel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	89)
+human_story_18	0	6	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	7	slaap	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(24)
+human_story_18	0	8	gevallen	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	9	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	10	denkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	11	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(52)
+human_story_18	0	12	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	In	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	1	de	LID(bep,stan,rest)	-	-	-	-	-	*	(93
+human_story_18	0	2	asbak	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	93)
+human_story_18	0	3	ligt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	4	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(94
+human_story_18	0	5	sigaar	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	94)
+human_story_18	0	6	die	VNW(betr,pron,stan,vol,persoon,getal)	-	-	-	-	-	*	(94)
+human_story_18	0	7	veranderd	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	8	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	9	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	10	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(96
+human_story_18	0	11	kegel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	12	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	13	as	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(97)|96)
+human_story_18	0	14	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(98
+human_story_18	0	1	halfleeg	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	2	glas	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	98)
+human_story_18	0	3	staat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	4	ernaast	BW()	-	-	-	-	-	*	-
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(55
+human_story_18	0	1	televisie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	55)
+human_story_18	0	2	stuurt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	3	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(100|(55)
+human_story_18	0	4	blauwe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	5	licht	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	100)
+human_story_18	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(14
+human_story_18	0	7	kamer	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	14)
+human_story_18	0	8	in	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	9	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(55)
+human_story_18	0	1	bekijkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	het	LID(bep,stan,evon)	-	-	-	-	-	*	(77
+human_story_18	0	3	boek	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	77)
+human_story_18	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Het	LID(bep,stan,evon)	-	-	-	-	-	*	(105
+human_story_18	0	1	negenenveertig	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+human_story_18	0	2	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	3	oude	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	4	fotoalbum	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	105)
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Natuurlijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(55)
+human_story_18	0	1	heeft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+human_story_18	0	3	gisteravond	BW()	-	-	-	-	-	*	-
+human_story_18	0	4	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	5	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(107
+human_story_18	0	6	zeldzaam	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	7	sentimentele	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	8	bui	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	107)
+human_story_18	0	9	uit	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	10	de	LID(bep,stan,rest)	-	-	-	-	-	*	(108
+human_story_18	0	11	kast	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	108)
+human_story_18	0	12	gehaald	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	13	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Omdat	VG(onder)	-	-	-	-	-	*	-
+human_story_18	0	1	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+human_story_18	0	2	vandaag	BW()	-	-	-	-	-	*	-
+human_story_18	0	3	precies	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	4	negenveertig	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+human_story_18	0	5	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	6	geleden	BW()	-	-	-	-	-	*	-
+human_story_18	0	7	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	8	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Hun	VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)	-	-	-	-	-	*	(72)
+human_story_18	0	1	trouwdag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	2	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Huilen	WW(inf,nom,zonder,zonder-n)	-	-	-	-	-	*	-
+human_story_18	0	1	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	2	dat	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_18	0	3	doen	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	4	mannen	N(soort,mv,basis)	-	-	-	-	-	*	(110
+human_story_18	0	5	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	6	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(55)
+human_story_18	0	7	generatie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	110)
+human_story_18	0	8	niet	BW()	-	-	-	-	-	*	-
+human_story_18	0	9	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Maar	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	1	als	VG(onder)	-	-	-	-	-	*	-
+human_story_18	0	2	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(55)
+human_story_18	0	3	naar	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	hun	VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)	-	-	-	-	-	*	(113|(110)
+human_story_18	0	5	prachtige	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	6	jongere	ADJ(prenom,comp,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	7	versies	N(soort,mv,basis)	-	-	-	-	-	*	113)
+human_story_18	0	8	kijkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	9	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	10	proeft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	11	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(55)
+human_story_18	0	12	zout	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	(116)
+human_story_18	0	13	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	14	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(117|(55)
+human_story_18	0	15	mond	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	117)
+human_story_18	0	16	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_18	0	1	Voor	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	2	altijd	BW()	-	-	-	-	-	*	-
+human_story_18	0	3	’	LET()	-	-	-	-	-	*	-
+human_story_18	0	4	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	5	dat	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_18	0	6	beloofden	WW(pv,verl,mv)	-	-	-	-	-	*	-
+human_story_18	0	7	ze	VNW(pers,pron,stan,red,3,mv)	-	-	-	-	-	*	(113)
+human_story_18	0	8	elkaar	VNW(recip,pron,obl,vol,persoon,mv)	-	-	-	-	-	*	(120)
+human_story_18	0	9	die	VNW(aanw,det,stan,prenom,zonder,rest)	-	-	-	-	-	*	-
+human_story_18	0	10	dag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	11	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Twee	TW(hoofd,prenom,stan)	-	-	-	-	-	*	(121
+human_story_18	0	1	pagina’s	N(soort,mv,basis)	-	-	-	-	-	*	121)
+human_story_18	0	2	kleven	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	3	aan	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	elkaar	VNW(recip,pron,obl,vol,persoon,mv)	-	-	-	-	-	*	(121)
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Voorzichtig	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	probeert	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(55)
+human_story_18	0	3	ze	VNW(pers,pron,stan,red,3,mv)	-	-	-	-	-	*	(121)
+human_story_18	0	4	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	5	elkaar	VNW(recip,pron,obl,vol,persoon,mv)	-	-	-	-	-	*	(125)
+human_story_18	0	6	te	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	7	scheiden	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	8	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	9	maar	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	10	delen	N(soort,mv,basis)	-	-	-	-	-	*	(126
+human_story_18	0	11	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	12	de	LID(bep,stan,rest)	-	-	-	-	-	*	(127
+human_story_18	0	13	foto	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	127)|126)
+human_story_18	0	14	scheuren	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	15	los	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	16	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(128|(127)
+human_story_18	0	1	gezicht	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	2	van	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	3	toen	BW()	-	-	-	-	-	*	128)
+human_story_18	0	4	beschadigd	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Grotendeels	BW()	-	-	-	-	-	*	-
+human_story_18	0	1	weg	BW()	-	-	-	-	-	*	-
+human_story_18	0	2	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_18	0	1	Bijna	BW()	-	-	-	-	-	*	-
+human_story_18	0	2	verdwenen	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	3	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Net	BW()	-	-	-	-	-	*	-
+human_story_18	0	1	als	VG(onder)	-	-	-	-	-	*	-
+human_story_18	0	2	zij	VNW(pers,pron,nomin,vol,3p,mv)	-	-	-	-	-	*	(55)
+human_story_18	0	3	’	LET()	-	-	-	-	-	*	-
+human_story_18	0	4	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	5	denkt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	6	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(55)
+human_story_18	0	7	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Tranen	N(soort,mv,basis)	-	-	-	-	-	*	(132)
+human_story_18	0	1	vallen	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	2	op	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	3	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(133|(128)
+human_story_18	0	4	nu	BW()	-	-	-	-	-	*	-
+human_story_18	0	5	lege	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	6	gezicht	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	7	in	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	8	de	LID(bep,stan,rest)	-	-	-	-	-	*	(135
+human_story_18	0	9	zwart-witte	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	10	foto	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	11	met	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	12	de	LID(bep,stan,rest)	-	-	-	-	-	*	(136
+human_story_18	0	13	wit	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	14	gekartelde	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	15	randjes	N(soort,mv,dim)	-	-	-	-	-	*	136)|135)|133)
+human_story_18	0	16	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(137
+human_story_18	0	1	thuiszorg	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	137)
+human_story_18	0	2	komt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	3	zo	BW()	-	-	-	-	-	*	-
+human_story_18	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Hopelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	1	heeft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(138)
+human_story_18	0	3	een	LID(onbep,stan,agr)	-	-	-	-	-	*	-
+human_story_18	0	4	goede	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	5	dag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	6	vandaag	BW()	-	-	-	-	-	*	-
+human_story_18	0	7	en	VG(neven)	-	-	-	-	-	*	-
+human_story_18	0	8	laat	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	9	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(138)
+human_story_18	0	10	zich	VNW(refl,pron,obl,red,3,getal)	-	-	-	-	-	*	(138)
+human_story_18	0	11	goed	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	12	helpen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	13	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(55)
+human_story_18	0	1	wil	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	tot	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	3	het	LID(bep,stan,evon)	-	-	-	-	-	*	-
+human_story_18	0	4	einde	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	5	voor	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	6	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(138)
+human_story_18	0	7	blijven	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	8	zorgen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_18	0	9	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Voor	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	1	altijd	BW()	-	-	-	-	-	*	-
+human_story_18	0	2	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(143
+human_story_18	0	1	bel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	143)
+human_story_18	0	2	gaat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	3	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(143)
+human_story_18	0	1	staat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	moeizaam	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	3	op	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_18	0	1	Ze	VNW(pers,pron,stan,red,3,mv)	-	-	-	-	-	*	(132)
+human_story_18	0	2	zijn	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	3	er	VNW(aanw,adv-pron,stan,red,3,getal)	-	-	-	-	-	*	-
+human_story_18	0	4	’	LET()	-	-	-	-	-	*	-
+human_story_18	0	5	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	6	roept	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	7	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(143)
+human_story_18	0	8	richting	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_18	0	9	de	LID(bep,stan,rest)	-	-	-	-	-	*	(147
+human_story_18	0	10	slaapkamer	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	147)
+human_story_18	0	11	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Er	VNW(aanw,adv-pron,stan,red,3,getal)	-	-	-	-	-	*	-
+human_story_18	0	1	komt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	geen	VNW(onbep,det,stan,prenom,zonder,agr)	-	-	-	-	-	*	-
+human_story_18	0	3	antwoord	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Voor	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	1	de	LID(bep,stan,rest)	-	-	-	-	-	*	(39
+human_story_18	0	2	deur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	39)
+human_story_18	0	3	staan	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_18	0	4	twee	TW(hoofd,prenom,stan)	-	-	-	-	-	*	(149
+human_story_18	0	5	agenten	N(soort,mv,basis)	-	-	-	-	-	*	149)
+human_story_18	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Tussen	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	1	hen	VNW(pers,pron,obl,vol,3p,mv)	-	-	-	-	-	*	(149)
+human_story_18	0	2	in	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	3	staat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	4	zij	VNW(pers,pron,nomin,vol,3v,ev,fem)	-	-	-	-	-	*	(138)
+human_story_18	0	5	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	6	met	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	7	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(152
+human_story_18	0	8	wit	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	9	nachthemd	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_18	0	10	over	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	11	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(153|(138)
+human_story_18	0	12	arm	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	153)|152)
+human_story_18	0	13	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Op	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	1	blote	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(67
+human_story_18	0	2	voeten	N(soort,mv,basis)	-	-	-	-	-	*	67)
+human_story_18	0	3	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_18	0	1	Is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_18	0	2	dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(138)
+human_story_18	0	3	uw	VNW(bez,det,stan,vol,2,getal,prenom,zonder,agr)	-	-	-	-	-	*	(138|(158)
+human_story_18	0	4	vrouw	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	138)
+human_story_18	0	5	?	LET()	-	-	-	-	-	*	-
+human_story_18	0	6	’	LET()	-	-	-	-	-	*	-
+human_story_18	0	7	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	8	vraagt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	9	de	LID(bep,stan,rest)	-	-	-	-	-	*	(159
+human_story_18	0	10	agent	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	159)
+human_story_18	0	11	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	Binnen	VZ(fin)	-	-	-	-	-	*	-
+human_story_18	0	1	pakt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	2	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(159)
+human_story_18	0	3	met	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	4	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(161|(159)
+human_story_18	0	5	warme	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	6	handen	N(soort,mv,basis)	-	-	-	-	-	*	161)
+human_story_18	0	7	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(163|(138)
+human_story_18	0	8	koude	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_18	0	9	voeten	N(soort,mv,basis)	-	-	-	-	-	*	163)
+human_story_18	0	10	vast	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_18	0	11	.	LET()	-	-	-	-	-	*	-
+
+human_story_18	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_18	0	1	Voor	VZ(init)	-	-	-	-	-	*	-
+human_story_18	0	2	altijd	BW()	-	-	-	-	-	*	-
+human_story_18	0	3	’	LET()	-	-	-	-	-	*	-
+human_story_18	0	4	,	LET()	-	-	-	-	-	*	-
+human_story_18	0	5	zegt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_18	0	6	zij	VNW(pers,pron,nomin,vol,3v,ev,fem)	-	-	-	-	-	*	(138)
+human_story_18	0	7	.	LET()	-	-	-	-	-	*	-
+
+#end document

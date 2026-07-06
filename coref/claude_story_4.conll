@@ -1,0 +1,613 @@
+#begin document (claude_story_4); part 000
+claude_story_4	0	0	*	LET()	-	-	-	-	-	*	-
+claude_story_4	0	1	*	LET()	-	-	-	-	-	*	-
+claude_story_4	0	2	De	LID(bep,stan,rest)	-	-	-	-	-	*	(0
+claude_story_4	0	3	laatste	ADJ(prenom,sup,met-e,stan)	-	-	-	-	-	*	-
+claude_story_4	0	4	trein	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	5	naar	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	6	Lübeck	N(eigen,ev,basis,onz,stan)	-	-	-	-	-	LOC	(1)|0)
+claude_story_4	0	7	*	LET()	-	-	-	-	-	*	-
+claude_story_4	0	8	*	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(2|(3)
+claude_story_4	0	1	grootmoeder	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	2)
+claude_story_4	0	2	bewaarde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	3	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(4|(2)
+claude_story_4	0	4	trouwring	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	4)
+claude_story_4	0	5	in	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	6	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(6
+claude_story_4	0	7	sigarendoosje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	-
+claude_story_4	0	8	met	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	9	Duitse	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(7
+claude_story_4	0	10	postzegels	N(soort,mv,basis)	-	-	-	-	-	*	7)|6)
+claude_story_4	0	11	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	10	*	-
+claude_story_4	0	1	Voor	VZ(init)	-	-	-	-	10	*	-
+claude_story_4	0	2	als	VG(onder)	-	-	-	-	10	*	-
+claude_story_4	0	3	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	10	*	(8)
+claude_story_4	0	4	ooit	BW()	-	-	-	-	10	*	-
+claude_story_4	0	5	naar	VZ(init)	-	-	-	-	10	*	-
+claude_story_4	0	6	Lübeck	N(eigen,ev,basis,onz,stan)	-	-	-	-	10	LOC	(1)
+claude_story_4	0	7	gaat	WW(pv,tgw,met-t)	-	-	-	-	10	*	-
+claude_story_4	0	8	,	LET()	-	-	-	-	10	*	-
+claude_story_4	0	9	"	LET()	-	-	-	-	10	*	-
+claude_story_4	0	10	zei	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	11	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(2)
+claude_story_4	0	12	altijd	BW()	-	-	-	-	-	*	-
+claude_story_4	0	13	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	14	zonder	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	15	uit	VZ(fin)	-	-	-	-	-	*	-
+claude_story_4	0	16	te	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	17	leggen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	18	waarom	BW()	-	-	-	-	-	*	-
+claude_story_4	0	19	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Na	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	1	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(11|(2)
+claude_story_4	0	2	begrafenis	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	11)
+claude_story_4	0	3	vond	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	4	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	5	tussen	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	6	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(14|(11)
+claude_story_4	0	7	spullen	N(soort,mv,basis)	-	-	-	-	-	*	14)
+claude_story_4	0	8	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(16
+claude_story_4	0	9	brief	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	16)
+claude_story_4	0	10	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	11	gedateerd	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	12	1961	TW(hoofd,vrij)	-	-	-	-	-	year	-
+claude_story_4	0	13	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	*	LET()	-	-	-	-	-	*	-
+claude_story_4	0	1	Liebste	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(17
+claude_story_4	0	2	Anna	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	17)
+claude_story_4	0	3	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	4	*	LET()	-	-	-	-	-	*	-
+claude_story_4	0	5	begon	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	6	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(18)
+claude_story_4	0	7	in	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	8	bevlekt	WW(vd,prenom,zonder)	-	-	-	-	-	*	(19
+claude_story_4	0	9	handschrift	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	19)
+claude_story_4	0	10	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	*	LET()	-	-	-	-	-	*	-
+claude_story_4	0	1	De	LID(bep,stan,rest)	-	-	-	-	-	*	(20
+claude_story_4	0	2	muur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	20)
+claude_story_4	0	3	staat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_4	0	4	nu	BW()	-	-	-	-	-	*	-
+claude_story_4	0	5	tussen	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	6	ons	VNW(pr,pron,obl,vol,1,mv)	-	-	-	-	-	*	(21)
+claude_story_4	0	7	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Was	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	1	ich	N(eigen,ev,basis,genus,stan)	-	-	-	-	-	MISC	(22)
+claude_story_4	0	2	noch	VG(neven)	-	-	-	-	-	*	-
+claude_story_4	0	3	zu	N(eigen,ev,basis,genus,stan)	-	-	-	-	-	MISC	(23)
+claude_story_4	0	4	sagen	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_4	0	5	hätte	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	6	...	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	*	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	-
+claude_story_4	0	1	rest	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	2	ontbrak	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	3	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Drie	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+claude_story_4	0	1	maanden	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_4	0	2	later	ADJ(vrij,comp,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	3	stond	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	4	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	5	op	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	6	perron	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_4	0	7	7	TW(hoofd,vrij)	-	-	-	-	-	*	-
+claude_story_4	0	8	van	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	9	Hamburg	SPEC(deeleigen)	-	-	-	-	-	ORG	(25
+claude_story_4	0	10	Hauptbahnhof	SPEC(deeleigen)	-	-	-	-	-	ORG	25)
+claude_story_4	0	11	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	12	de	LID(bep,stan,rest)	-	-	-	-	-	*	(26
+claude_story_4	0	13	ring	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	14	in	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	15	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(27|(3)
+claude_story_4	0	16	broekzak	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	27)|26)
+claude_story_4	0	17	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(0
+claude_story_4	0	1	trein	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	2	naar	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	3	Lübeck	N(eigen,ev,basis,onz,stan)	-	-	-	-	-	LOC	(1)|0)
+claude_story_4	0	4	vertrok	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	5	over	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	6	vier	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+claude_story_4	0	7	minuten	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_4	0	8	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(31
+claude_story_4	0	1	oudere	ADJ(prenom,comp,met-e,stan)	-	-	-	-	-	*	-
+claude_story_4	0	2	man	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	3	naast	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	4	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(3)|31)
+claude_story_4	0	5	bestudeerde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(33
+claude_story_4	0	7	vertrekborden	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_4	0	8	met	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	9	samengeknepen	WW(vd,prenom,zonder)	-	-	-	-	-	*	(34
+claude_story_4	0	10	ogen	N(soort,mv,basis)	-	-	-	-	-	*	34)|33)
+claude_story_4	0	11	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	36	*	-
+claude_story_4	0	1	Lübeck	N(eigen,ev,basis,onz,stan)	-	-	-	-	36	LOC	(1)
+claude_story_4	0	2	?	LET()	-	-	-	-	36	*	-
+claude_story_4	0	3	"	LET()	-	-	-	-	36	*	-
+claude_story_4	0	4	vroeg	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	5	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(31)
+claude_story_4	0	6	in	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	7	gebroken	WW(vd,prenom,zonder)	-	-	-	-	-	*	(37
+claude_story_4	0	8	Nederlands	N(eigen,ev,basis,onz,stan)	-	-	-	-	-	*	37)
+claude_story_4	0	9	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	36	*	-
+claude_story_4	0	1	U	VNW(pers,pron,nomin,vol,2b,getal)	-	-	-	-	36	*	(38)
+claude_story_4	0	2	ook	BW()	-	-	-	-	36	*	-
+claude_story_4	0	3	?	LET()	-	-	-	-	36	*	-
+claude_story_4	0	4	"	LET()	-	-	-	-	36	*	-
+
+claude_story_4	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	1	knikte	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(31)
+claude_story_4	0	1	had	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	dezelfde	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	(41
+claude_story_4	0	3	ogen	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_4	0	4	als	VG(onder)	-	-	-	-	-	*	-
+claude_story_4	0	5	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(2|(3)
+claude_story_4	0	6	grootmoeder	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	2)|41)
+claude_story_4	0	7	–	LET()	-	-	-	-	-	*	-
+claude_story_4	0	8	waterig	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	(44
+claude_story_4	0	9	blauw	ADJ(nom,basis,zonder,zonder-n)	-	-	-	-	-	*	44)
+claude_story_4	0	10	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	11	met	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	12	kraaienpootjes	N(soort,mv,dim)	-	-	-	-	-	*	(45)
+claude_story_4	0	13	die	VNW(betr,pron,stan,vol,persoon,getal)	-	-	-	-	-	*	(45)
+claude_story_4	0	14	dieper	ADJ(vrij,comp,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	15	werden	WW(pv,verl,mv)	-	-	-	-	-	*	-
+claude_story_4	0	16	als	VG(onder)	-	-	-	-	-	*	-
+claude_story_4	0	17	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(31)
+claude_story_4	0	18	glimlachte	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	19	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	49	*	-
+claude_story_4	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	49	*	(31)
+claude_story_4	0	2	ga	WW(pv,tgw,ev)	-	-	-	-	49	*	-
+claude_story_4	0	3	elke	VNW(onbep,det,stan,prenom,met-e,evz)	-	-	-	-	49	*	-
+claude_story_4	0	4	november	N(eigen,ev,basis,zijd,stan)	-	-	-	-	49	*	-
+claude_story_4	0	5	,	LET()	-	-	-	-	49	*	-
+claude_story_4	0	6	"	LET()	-	-	-	-	49	*	-
+claude_story_4	0	7	zei	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	8	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(31)
+claude_story_4	0	9	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	49	*	-
+claude_story_4	0	1	Vijfenzestig	TW(hoofd,prenom,stan)	-	-	-	-	49	*	-
+claude_story_4	0	2	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	49	*	-
+claude_story_4	0	3	nu	BW()	-	-	-	-	49	*	-
+claude_story_4	0	4	.	LET()	-	-	-	-	49	*	-
+claude_story_4	0	5	"	LET()	-	-	-	-	49	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_4	0	1	Waarom	BW()	-	-	-	-	-	*	-
+claude_story_4	0	2	november	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	3	?	LET()	-	-	-	-	-	*	-
+claude_story_4	0	4	"	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	49	*	-
+claude_story_4	0	1	November	N(eigen,ev,basis,zijd,stan)	-	-	-	-	49	*	-
+claude_story_4	0	2	1961	TW(hoofd,vrij)	-	-	-	-	49	year	-
+claude_story_4	0	3	.	LET()	-	-	-	-	49	*	-
+
+claude_story_4	0	0	Laatste	ADJ(nom,sup,met-e,zonder-n,stan)	-	-	-	-	49	*	-
+claude_story_4	0	1	keer	N(soort,ev,basis,zijd,stan)	-	-	-	-	49	*	-
+claude_story_4	0	2	dat	VG(onder)	-	-	-	-	49	*	-
+claude_story_4	0	3	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	49	*	(31)
+claude_story_4	0	4	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	49	*	(51|(31)
+claude_story_4	0	5	verloofde	N(soort,ev,basis,zijd,stan)	-	-	-	-	49	*	51)
+claude_story_4	0	6	zag	WW(pv,verl,ev)	-	-	-	-	49	*	-
+claude_story_4	0	7	.	LET()	-	-	-	-	49	*	-
+
+claude_story_4	0	0	Anna	N(eigen,ev,basis,zijd,stan)	-	-	-	-	49	PER	(17)
+claude_story_4	0	1	heette	WW(pv,verl,ev)	-	-	-	-	49	*	-
+claude_story_4	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	49	*	(17)
+claude_story_4	0	3	.	LET()	-	-	-	-	49	*	-
+claude_story_4	0	4	"	LET()	-	-	-	-	49	*	-
+
+claude_story_4	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(26
+claude_story_4	0	1	ring	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	26)
+claude_story_4	0	2	brandde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	3	in	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	4	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(56|(3)
+claude_story_4	0	5	zak	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	56)
+claude_story_4	0	6	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	58	*	-
+claude_story_4	0	1	Nederlandse	ADJ(prenom,basis,met-e,stan)	-	-	-	-	58	*	-
+claude_story_4	0	2	?	LET()	-	-	-	-	58	*	-
+claude_story_4	0	3	"	LET()	-	-	-	-	58	*	-
+claude_story_4	0	4	vroeg	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	5	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	6	schor	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	7	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_4	0	1	Uit	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	2	Rotterdam	N(eigen,ev,basis,onz,stan)	-	-	-	-	-	LOC	(59)
+claude_story_4	0	3	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Ontmoet	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	1	tijdens	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(60
+claude_story_4	0	3	wederopbouw	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	60)
+claude_story_4	0	4	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(61)
+claude_story_4	0	1	was	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	timmerman	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	3	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	4	kwam	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	5	helpen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	6	bouwen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	7	.	LET()	-	-	-	-	-	*	-
+claude_story_4	0	8	"	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(26)
+claude_story_4	0	1	haalde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(63
+claude_story_4	0	3	vergeelde	WW(vd,prenom,met-e)	-	-	-	-	-	*	-
+claude_story_4	0	4	foto	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	63)
+claude_story_4	0	5	uit	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	6	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(64|(26)
+claude_story_4	0	7	portemonnee	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	64)
+claude_story_4	0	8	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(2|(3)
+claude_story_4	0	1	grootmoeder	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	2)
+claude_story_4	0	2	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	3	misschien	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	4	twintig	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+claude_story_4	0	5	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_4	0	6	oud	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	7	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	8	lachend	WW(od,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	9	voor	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	10	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(68
+claude_story_4	0	11	half	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	12	afgebouwde	WW(vd,prenom,met-e)	-	-	-	-	-	*	-
+claude_story_4	0	13	gevel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	68)
+claude_story_4	0	14	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	71	*	-
+claude_story_4	0	1	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	71	*	(2)
+claude_story_4	0	2	stuurde	WW(pv,verl,ev)	-	-	-	-	71	*	-
+claude_story_4	0	3	brieven	N(soort,mv,basis)	-	-	-	-	71	*	(70)
+claude_story_4	0	4	,	LET()	-	-	-	-	71	*	-
+claude_story_4	0	5	"	LET()	-	-	-	-	71	*	-
+claude_story_4	0	6	vervolgde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	7	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(26)
+claude_story_4	0	8	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	71	*	-
+claude_story_4	0	1	Tot	VZ(init)	-	-	-	-	71	*	-
+claude_story_4	0	2	1962	TW(hoofd,vrij)	-	-	-	-	71	year	-
+claude_story_4	0	3	.	LET()	-	-	-	-	71	*	-
+
+claude_story_4	0	0	Daarna	BW()	-	-	-	-	71	*	-
+claude_story_4	0	1	niets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	71	*	-
+claude_story_4	0	2	meer	VNW(onbep,grad,stan,vrij,zonder,comp)	-	-	-	-	71	*	-
+claude_story_4	0	3	.	LET()	-	-	-	-	71	*	-
+
+claude_story_4	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	71	*	(26)
+claude_story_4	0	1	bleef	WW(pv,verl,ev)	-	-	-	-	71	*	-
+claude_story_4	0	2	schrijven	WW(inf,vrij,zonder)	-	-	-	-	71	*	-
+claude_story_4	0	3	.	LET()	-	-	-	-	71	*	-
+
+claude_story_4	0	0	Elke	VNW(onbep,det,stan,prenom,met-e,evz)	-	-	-	-	71	*	-
+claude_story_4	0	1	week	N(soort,ev,basis,zijd,stan)	-	-	-	-	71	*	-
+claude_story_4	0	2	.	LET()	-	-	-	-	71	*	-
+
+claude_story_4	0	0	*	LET()	-	-	-	-	71	*	-
+claude_story_4	0	1	Was	WW(pv,verl,ev)	-	-	-	-	71	*	-
+claude_story_4	0	2	ich	N(eigen,ev,basis,genus,stan)	-	-	-	-	71	MISC	(73|(22)
+claude_story_4	0	3	noch	VG(neven)	-	-	-	-	71	*	-
+claude_story_4	0	4	zu	N(eigen,ev,basis,genus,stan)	-	-	-	-	71	MISC	(23)
+claude_story_4	0	5	sagen	N(soort,mv,basis)	-	-	-	-	71	*	-
+claude_story_4	0	6	hätte	N(soort,ev,basis,zijd,stan)	-	-	-	-	71	*	73)
+claude_story_4	0	7	*	LET()	-	-	-	-	71	*	-
+claude_story_4	0	8	–	LET()	-	-	-	-	71	*	-
+claude_story_4	0	9	wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	71	*	-
+claude_story_4	0	10	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	71	*	(26)
+claude_story_4	0	11	nog	BW()	-	-	-	-	71	*	-
+claude_story_4	0	12	te	VZ(init)	-	-	-	-	71	*	-
+claude_story_4	0	13	zeggen	WW(inf,vrij,zonder)	-	-	-	-	71	*	-
+claude_story_4	0	14	had	WW(pv,verl,ev)	-	-	-	-	71	*	-
+claude_story_4	0	15	.	LET()	-	-	-	-	71	*	-
+
+claude_story_4	0	0	Maar	VG(neven)	-	-	-	-	71	*	-
+claude_story_4	0	1	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	71	*	-
+claude_story_4	0	2	werd	WW(pv,verl,ev)	-	-	-	-	71	*	-
+claude_story_4	0	3	steeds	BW()	-	-	-	-	71	*	-
+claude_story_4	0	4	minder	VNW(onbep,grad,stan,vrij,zonder,comp)	-	-	-	-	71	*	-
+claude_story_4	0	5	.	LET()	-	-	-	-	71	*	-
+
+claude_story_4	0	0	Woorden	N(soort,mv,basis)	-	-	-	-	71	*	(77)
+claude_story_4	0	1	slijten	WW(pv,tgw,mv)	-	-	-	-	71	*	-
+claude_story_4	0	2	als	VG(onder)	-	-	-	-	71	*	-
+claude_story_4	0	3	stenen	N(soort,mv,basis)	-	-	-	-	71	*	(78
+claude_story_4	0	4	in	VZ(init)	-	-	-	-	71	*	-
+claude_story_4	0	5	een	LID(onbep,stan,agr)	-	-	-	-	71	*	(79
+claude_story_4	0	6	rivier	N(soort,ev,basis,zijd,stan)	-	-	-	-	71	*	79)|78)
+claude_story_4	0	7	.	LET()	-	-	-	-	71	*	-
+claude_story_4	0	8	"	LET()	-	-	-	-	71	*	-
+
+claude_story_4	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(0
+claude_story_4	0	1	trein	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	0)
+claude_story_4	0	2	reed	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	3	binnen	VZ(fin)	-	-	-	-	-	*	-
+claude_story_4	0	4	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	We	VNW(pers,pron,nomin,red,1,mv)	-	-	-	-	-	*	(21)
+claude_story_4	0	1	stapten	WW(pv,verl,mv)	-	-	-	-	-	*	-
+claude_story_4	0	2	zwijgend	WW(od,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	3	in	VZ(fin)	-	-	-	-	-	*	-
+claude_story_4	0	4	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	83	*	-
+claude_story_4	0	1	Waarom	BW()	-	-	-	-	83	*	-
+claude_story_4	0	2	Lübeck	N(eigen,ev,basis,onz,stan)	-	-	-	-	83	LOC	(1)
+claude_story_4	0	3	?	LET()	-	-	-	-	83	*	-
+claude_story_4	0	4	"	LET()	-	-	-	-	83	*	-
+claude_story_4	0	5	vroeg	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	6	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	7	uiteindelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	8	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_4	0	1	Daar	VNW(aanw,adv-pron,obl,vol,3o,getal)	-	-	-	-	-	*	-
+claude_story_4	0	2	zouden	WW(pv,verl,mv)	-	-	-	-	-	*	-
+claude_story_4	0	3	we	VNW(pers,pron,nomin,red,1,mv)	-	-	-	-	-	*	(84)
+claude_story_4	0	4	trouwen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	5	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Kleine	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(85
+claude_story_4	0	1	kerk	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	2	bij	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(86
+claude_story_4	0	4	Trave	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	ORG	86)|85)
+claude_story_4	0	5	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Had	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	1	alles	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	geregeld	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	3	voor	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	4	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(87|(86)
+claude_story_4	0	5	komst	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	87)
+claude_story_4	0	6	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Toen	BW()	-	-	-	-	-	*	-
+claude_story_4	0	1	kwam	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	die	VNW(aanw,det,stan,prenom,zonder,rest)	-	-	-	-	-	*	(89
+claude_story_4	0	3	verdomde	WW(vd,prenom,met-e)	-	-	-	-	-	*	-
+claude_story_4	0	4	muur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	89)
+claude_story_4	0	5	.	LET()	-	-	-	-	-	*	-
+claude_story_4	0	6	"	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	1	gaf	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	hem	VNW(pers,pron,obl,vol,3,ev,masc)	-	-	-	-	-	*	(23)
+claude_story_4	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(26
+claude_story_4	0	4	ring	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	26)
+claude_story_4	0	5	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(26)
+claude_story_4	0	1	draaide	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	hem	VNW(pers,pron,obl,vol,3,ev,masc)	-	-	-	-	-	*	(23)
+claude_story_4	0	3	tussen	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	4	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(95|(26)
+claude_story_4	0	5	vingers	N(soort,mv,basis)	-	-	-	-	-	*	95)
+claude_story_4	0	6	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	7	las	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	8	de	LID(bep,stan,rest)	-	-	-	-	-	*	(97
+claude_story_4	0	9	inscriptie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_4	0	10	aan	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	11	de	LID(bep,stan,rest)	-	-	-	-	-	*	(98
+claude_story_4	0	12	binnenkant	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	98)|97)
+claude_story_4	0	13	:	LET()	-	-	-	-	-	*	-
+claude_story_4	0	14	*	LET()	-	-	-	-	-	*	-
+claude_story_4	0	15	A&W	SPEC(deeleigen)	-	-	-	-	-	MISC	(99
+claude_story_4	0	16	1961	SPEC(deeleigen)	-	-	-	-	-	MISC	99)
+claude_story_4	0	17	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	*	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	102	*	-
+claude_story_4	0	1	Anna	N(eigen,ev,basis,zijd,stan)	-	-	-	-	102	PER	(17)
+claude_story_4	0	2	en	VG(neven)	-	-	-	-	102	*	-
+claude_story_4	0	3	Werner	N(eigen,ev,basis,zijd,stan)	-	-	-	-	102	PER	(101)
+claude_story_4	0	4	,	LET()	-	-	-	-	102	*	-
+claude_story_4	0	5	"	LET()	-	-	-	-	102	*	-
+claude_story_4	0	6	fluisterde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	7	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(26)
+claude_story_4	0	8	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	104	*	-
+claude_story_4	0	1	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	104	*	(17)
+claude_story_4	0	2	is	WW(pv,tgw,ev)	-	-	-	-	104	*	-
+claude_story_4	0	3	drie	TW(hoofd,prenom,stan)	-	-	-	-	104	*	-
+claude_story_4	0	4	maanden	N(soort,mv,basis)	-	-	-	-	104	*	-
+claude_story_4	0	5	geleden	BW()	-	-	-	-	104	*	-
+claude_story_4	0	6	overleden	WW(vd,vrij,zonder)	-	-	-	-	104	*	-
+claude_story_4	0	7	,	LET()	-	-	-	-	104	*	-
+claude_story_4	0	8	"	LET()	-	-	-	-	104	*	-
+claude_story_4	0	9	zei	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	10	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	11	zacht	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	12	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	104	*	-
+claude_story_4	0	1	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	104	*	(2)
+claude_story_4	0	2	was	WW(pv,verl,ev)	-	-	-	-	104	*	-
+claude_story_4	0	3	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	104	*	(2|(3)
+claude_story_4	0	4	grootmoeder	N(soort,ev,basis,zijd,stan)	-	-	-	-	104	*	2)
+claude_story_4	0	5	.	LET()	-	-	-	-	104	*	-
+claude_story_4	0	6	"	LET()	-	-	-	-	104	*	-
+
+claude_story_4	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(26)
+claude_story_4	0	1	sloot	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(109|(26)
+claude_story_4	0	3	ogen	N(soort,mv,basis)	-	-	-	-	-	*	109)
+claude_story_4	0	4	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	108	*	-
+claude_story_4	0	1	Was	WW(pv,verl,ev)	-	-	-	-	108	*	-
+claude_story_4	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	108	*	(2)
+claude_story_4	0	3	...	LET()	-	-	-	-	108	*	-
+claude_story_4	0	4	gelukkig	ADJ(vrij,basis,zonder)	-	-	-	-	108	*	-
+claude_story_4	0	5	?	LET()	-	-	-	-	108	*	-
+claude_story_4	0	6	"	LET()	-	-	-	-	108	*	-
+
+claude_story_4	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	1	dacht	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	aan	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	3	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(113|(3)
+claude_story_4	0	4	grootvader	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	113)
+claude_story_4	0	5	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	6	aan	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	7	hun	VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)	-	-	-	-	-	*	(109)
+claude_story_4	0	8	vijftig	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+claude_story_4	0	9	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_4	0	10	samen	BW()	-	-	-	-	-	*	-
+claude_story_4	0	11	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	12	aan	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	13	de	LID(bep,stan,rest)	-	-	-	-	-	*	(116
+claude_story_4	0	14	sigarendoos	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	116)
+claude_story_4	0	15	die	VNW(betr,pron,stan,vol,persoon,getal)	-	-	-	-	-	*	(116)
+claude_story_4	0	16	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(2)
+claude_story_4	0	17	tot	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	18	het	LID(bep,stan,evon)	-	-	-	-	-	*	-
+claude_story_4	0	19	einde	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_4	0	20	bewaarde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	21	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	119	*	-
+claude_story_4	0	1	Ja	TSW()	-	-	-	-	119	*	-
+claude_story_4	0	2	,	LET()	-	-	-	-	119	*	-
+claude_story_4	0	3	"	LET()	-	-	-	-	119	*	-
+claude_story_4	0	4	loog	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	5	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	6	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	119	*	-
+claude_story_4	0	1	Heel	ADJ(vrij,basis,zonder)	-	-	-	-	119	*	-
+claude_story_4	0	2	gelukkig	ADJ(vrij,basis,zonder)	-	-	-	-	119	*	-
+claude_story_4	0	3	.	LET()	-	-	-	-	119	*	-
+claude_story_4	0	4	"	LET()	-	-	-	-	119	*	-
+
+claude_story_4	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(116)
+claude_story_4	0	1	knikte	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	langzaam	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	3	en	VG(neven)	-	-	-	-	-	*	-
+claude_story_4	0	4	gaf	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	5	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(26
+claude_story_4	0	7	ring	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	26)
+claude_story_4	0	8	terug	BW()	-	-	-	-	-	*	-
+claude_story_4	0	9	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	"	LET()	-	-	-	-	120	*	-
+claude_story_4	0	1	Behoud	WW(pv,tgw,ev)	-	-	-	-	120	*	-
+claude_story_4	0	2	hem	VNW(pers,pron,obl,vol,3,ev,masc)	-	-	-	-	120	*	(26)
+claude_story_4	0	3	.	LET()	-	-	-	-	120	*	-
+
+claude_story_4	0	0	Sommige	VNW(onbep,det,stan,prenom,met-e,rest)	-	-	-	-	120	*	-
+claude_story_4	0	1	verhalen	N(soort,mv,basis)	-	-	-	-	120	*	-
+claude_story_4	0	2	moeten	WW(pv,tgw,mv)	-	-	-	-	120	*	-
+claude_story_4	0	3	onafgemaakt	WW(vd,vrij,zonder)	-	-	-	-	120	*	-
+claude_story_4	0	4	blijven	WW(inf,vrij,zonder)	-	-	-	-	120	*	-
+claude_story_4	0	5	.	LET()	-	-	-	-	120	*	-
+claude_story_4	0	6	"	LET()	-	-	-	-	120	*	-
+
+claude_story_4	0	0	Bij	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	1	Lübeck	N(eigen,ev,basis,onz,stan)	-	-	-	-	-	LOC	(1)
+claude_story_4	0	2	stapte	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	3	hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(26)
+claude_story_4	0	4	uit	VZ(fin)	-	-	-	-	-	*	-
+claude_story_4	0	5	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	1	bleef	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	zitten	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	3	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	4	keek	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	5	hoe	BW()	-	-	-	-	-	*	-
+claude_story_4	0	6	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(127|(26)
+claude_story_4	0	7	gestalte	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	127)
+claude_story_4	0	8	verdween	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	9	in	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	10	de	LID(bep,stan,rest)	-	-	-	-	-	*	(129
+claude_story_4	0	11	novembernevel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	129)
+claude_story_4	0	12	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(0
+claude_story_4	0	1	trein	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	0)
+claude_story_4	0	2	reed	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	3	verder	ADJ(vrij,comp,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	4	naar	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	5	Kopenhagen	N(eigen,ev,basis,onz,stan)	-	-	-	-	-	LOC	(131)
+claude_story_4	0	6	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	7	naar	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	8	nieuwe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(132
+claude_story_4	0	9	verhalen	N(soort,mv,basis)	-	-	-	-	-	*	132)
+claude_story_4	0	10	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(26
+claude_story_4	0	1	ring	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	26)
+claude_story_4	0	2	ligt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_4	0	3	nu	BW()	-	-	-	-	-	*	-
+claude_story_4	0	4	in	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	5	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(134|(3)
+claude_story_4	0	6	nachtkastje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	134)
+claude_story_4	0	7	,	LET()	-	-	-	-	-	*	-
+claude_story_4	0	8	naast	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	9	de	LID(bep,stan,rest)	-	-	-	-	-	*	(136
+claude_story_4	0	10	onvoltooide	WW(vd,prenom,met-e)	-	-	-	-	-	*	-
+claude_story_4	0	11	brief	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	136)
+claude_story_4	0	12	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Soms	BW()	-	-	-	-	-	*	-
+claude_story_4	0	1	vraag	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_4	0	2	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	3	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(3)
+claude_story_4	0	4	af	VZ(fin)	-	-	-	-	-	*	-
+claude_story_4	0	5	wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_4	0	6	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(2|(3)
+claude_story_4	0	7	grootmoeder	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	2)
+claude_story_4	0	8	nog	BW()	-	-	-	-	-	*	-
+claude_story_4	0	9	te	VZ(init)	-	-	-	-	-	*	-
+claude_story_4	0	10	zeggen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	11	had	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	12	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Maar	VG(neven)	-	-	-	-	-	*	-
+claude_story_4	0	1	Werner	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(101)
+claude_story_4	0	2	had	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_4	0	3	gelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	4	.	LET()	-	-	-	-	-	*	-
+
+claude_story_4	0	0	Sommige	VNW(onbep,det,stan,prenom,met-e,rest)	-	-	-	-	-	*	-
+claude_story_4	0	1	verhalen	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_4	0	2	moeten	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+claude_story_4	0	3	onafgemaakt	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	4	blijven	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_4	0	5	.	LET()	-	-	-	-	-	*	-
+
+#end document

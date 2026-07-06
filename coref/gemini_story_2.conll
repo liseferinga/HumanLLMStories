@@ -1,0 +1,216 @@
+#begin document (gemini_story_2); part 000
+gemini_story_2	0	0	Smaakproef	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Eet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(0)
+gemini_story_2	0	3	niet	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	mee	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_2	0	5	?	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(1)
+gemini_story_2	0	2	heb	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	al	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	gegeten	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	heb	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(2)
+gemini_story_2	0	4	gegeten	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	5	dan	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	6	?	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Gewoon	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	2	,	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	3	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(3
+gemini_story_2	0	4	paar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+gemini_story_2	0	5	droge	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_2	0	6	crackers	N(soort,mv,basis)	-	-	-	-	-	*	3)
+gemini_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(4)
+gemini_story_2	0	2	hebt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_2	0	3	werkelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	4	de	LID(bep,stan,rest)	-	-	-	-	-	*	-
+gemini_story_2	0	5	hele	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_2	0	6	middag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_2	0	7	in	VZ(init)	-	-	-	-	-	*	-
+gemini_story_2	0	8	de	LID(bep,stan,rest)	-	-	-	-	-	*	(5
+gemini_story_2	0	9	keuken	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	5)
+gemini_story_2	0	10	gestaan	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	11	voor	VZ(init)	-	-	-	-	-	*	-
+gemini_story_2	0	12	deze	VNW(aanw,det,stan,prenom,met-e,rest)	-	-	-	-	-	*	(6
+gemini_story_2	0	13	maaltijd	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	6)
+gemini_story_2	0	14	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	15	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(7)
+gemini_story_2	0	2	kook	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	gewoon	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	4	ontzettend	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	5	graag	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	6	voor	VZ(init)	-	-	-	-	-	*	-
+gemini_story_2	0	7	je	VNW(pr,pron,obl,red,2v,getal)	-	-	-	-	-	*	(8)
+gemini_story_2	0	8	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	9	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Waarom	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	2	tril	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(9)
+gemini_story_2	0	4	dan	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	5	zo	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	6	?	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(10)
+gemini_story_2	0	2	tril	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	helemaal	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	niet	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(11)
+gemini_story_2	0	2	zweet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	ook	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gemini_story_2	0	2	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	erg	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	4	warm	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	5	hier	VNW(aanw,adv-pron,obl,vol,3o,getal)	-	-	-	-	-	*	-
+gemini_story_2	0	6	binnen	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Neem	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(12
+gemini_story_2	0	3	hap	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	12)
+gemini_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(13)
+gemini_story_2	0	2	heb	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	3	echt	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	4	helemaal	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	5	geen	VNW(onbep,det,stan,prenom,zonder,agr)	-	-	-	-	-	*	-
+gemini_story_2	0	6	honger	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Neem	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(14
+gemini_story_2	0	3	klein	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	4	hapje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	14)
+gemini_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Nee	TSW()	-	-	-	-	-	*	-
+gemini_story_2	0	2	,	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	3	dank	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	4	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(15)
+gemini_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Als	VG(onder)	-	-	-	-	-	*	-
+gemini_story_2	0	2	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gemini_story_2	0	3	zo	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	gruwelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	5	lekker	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	6	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	7	,	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	8	waarom	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	9	wil	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	10	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(16)
+gemini_story_2	0	11	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gemini_story_2	0	12	dan	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	13	zelf	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	14	niet	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	15	even	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	16	proeven	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	17	?	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	18	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Omdat	VG(onder)	-	-	-	-	-	*	-
+gemini_story_2	0	2	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(17)
+gemini_story_2	0	3	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gemini_story_2	0	4	speciaal	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	5	voor	VZ(init)	-	-	-	-	-	*	-
+gemini_story_2	0	6	jou	VNW(pers,pron,obl,vol,2v,ev)	-	-	-	-	-	*	(18)
+gemini_story_2	0	7	heb	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	8	gemaakt	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	9	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	10	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Zit	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	er	VNW(aanw,adv-pron,stan,red,3,getal)	-	-	-	-	-	*	-
+gemini_story_2	0	3	soms	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	iets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	5	in	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_2	0	6	?	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Doe	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	toch	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	3	niet	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	zo	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	5	vreselijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	6	belachelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Eet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gemini_story_2	0	3	nu	BW()	-	-	-	-	-	*	-
+gemini_story_2	0	4	op	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Nee	TSW()	-	-	-	-	-	*	-
+gemini_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	3	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Eet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	2	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gemini_story_2	0	3	,	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	4	of	VG(neven)	-	-	-	-	-	*	-
+gemini_story_2	0	5	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(19)
+gemini_story_2	0	6	bel	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_2	0	7	direct	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_2	0	8	de	LID(bep,stan,rest)	-	-	-	-	-	*	(20
+gemini_story_2	0	9	politie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	20)
+gemini_story_2	0	10	.	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	11	"	LET()	-	-	-	-	-	*	-
+
+gemini_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	1	Wacht	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_2	0	2	!	LET()	-	-	-	-	-	*	-
+gemini_story_2	0	3	"	LET()	-	-	-	-	-	*	-
+
+#end document

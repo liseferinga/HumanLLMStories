@@ -1,0 +1,271 @@
+#begin document (human_story_2); part 000
+human_story_2	0	0	*	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	*	LET()	-	-	-	-	-	*	-
+human_story_2	0	2	NIET	BW()	-	-	-	-	-	*	-
+human_story_2	0	3	TE	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	4	BEHAPPEN	WW(inf,prenom,zonder)	-	-	-	-	-	*	-
+human_story_2	0	5	*	LET()	-	-	-	-	-	*	-
+human_story_2	0	6	*	LET()	-	-	-	-	-	*	-
+human_story_2	0	7	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	8	Mooie	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(0
+human_story_2	0	9	menukaartjes	N(soort,mv,dim)	-	-	-	-	-	*	0)
+human_story_2	0	10	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	11	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Ja	TSW()	-	-	-	-	-	*	-
+human_story_2	0	2	,	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(1
+human_story_2	0	4	bijzondere	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_2	0	5	maaltijd	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	1)
+human_story_2	0	6	verdient	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_2	0	7	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(2
+human_story_2	0	8	bijzondere	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+human_story_2	0	9	aankleding	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	2)
+human_story_2	0	10	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	11	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+human_story_2	0	2	zal	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_2	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(4
+human_story_2	0	4	kaars	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	4)
+human_story_2	0	5	vast	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	6	aansteken	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	8	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Graag	BW()	-	-	-	-	-	*	-
+human_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	Hier	VNW(aanw,adv-pron,obl,vol,3o,getal)	-	-	-	-	-	*	-
+human_story_2	0	1	,	LET()	-	-	-	-	-	*	-
+human_story_2	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(5
+human_story_2	0	3	garnalencocktail	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	5)
+human_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	Extra	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	(6
+human_story_2	0	1	whiskysaus	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	6)
+human_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(7
+human_story_2	0	2	dikmaker	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	7)
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	4	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(8|(7)
+human_story_2	0	2	woorden	N(soort,mv,basis)	-	-	-	-	-	*	8)
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	4	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Twaalf	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+human_story_2	0	2	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	4	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Twaalf	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+human_story_2	0	2	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	4	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Garnalencocktail	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(10)
+human_story_2	0	2	,	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	biefstuk	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(11
+human_story_2	0	4	met	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	5	patat	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(12)|11)
+human_story_2	0	6	en	VG(neven)	-	-	-	-	-	*	-
+human_story_2	0	7	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(13
+human_story_2	0	8	ijsje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	13)
+human_story_2	0	9	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	10	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Eigenlijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	2	hebben	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+human_story_2	0	3	we	VNW(pers,pron,nomin,red,1,mv)	-	-	-	-	-	*	(14)
+human_story_2	0	4	er	VNW(aanw,adv-pron,stan,red,3,getal)	-	-	-	-	-	*	-
+human_story_2	0	5	geen	VNW(onbep,det,stan,prenom,zonder,agr)	-	-	-	-	-	*	-
+human_story_2	0	6	menukaart	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_2	0	7	voor	VZ(fin)	-	-	-	-	-	*	-
+human_story_2	0	8	nodig	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	9	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	10	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Zouden	WW(pv,verl,mv)	-	-	-	-	-	*	-
+human_story_2	0	2	we	VNW(pers,pron,nomin,red,1,mv)	-	-	-	-	-	*	(14)
+human_story_2	0	3	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+human_story_2	0	4	niet	BW()	-	-	-	-	-	*	-
+human_story_2	0	5	aan	VZ(fin)	-	-	-	-	-	*	-
+human_story_2	0	6	moeten	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_2	0	7	passen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_2	0	8	?	LET()	-	-	-	-	-	*	-
+human_story_2	0	9	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_2	0	2	?	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Het	LID(bep,stan,evon)	-	-	-	-	-	*	(16
+human_story_2	0	2	menu	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	16)
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	4	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Nee	TSW()	-	-	-	-	-	*	-
+human_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Nee	TSW()	-	-	-	-	-	*	-
+human_story_2	0	2	?	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Alsjeblieft	BW()	-	-	-	-	-	*	-
+human_story_2	0	2	niet	BW()	-	-	-	-	-	*	-
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	Hou	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_2	0	1	erover	BW()	-	-	-	-	-	*	-
+human_story_2	0	2	op	VZ(fin)	-	-	-	-	-	*	-
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	4	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Wijn	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_2	0	2	?	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Lekker	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Proost	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Op	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	2	het	LID(bep,stan,evon)	-	-	-	-	-	*	-
+human_story_2	0	3	leven	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	5	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Op	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	-
+human_story_2	0	3	toekomst	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	5	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	En	VG(neven)	-	-	-	-	-	*	-
+human_story_2	0	2	wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_2	0	3	er	VNW(aanw,adv-pron,stan,red,3,getal)	-	-	-	-	-	*	-
+human_story_2	0	4	achter	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	5	ons	VNW(pr,pron,obl,vol,1,mv)	-	-	-	-	-	*	(14)
+human_story_2	0	6	ligt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	8	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Lekker	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	Brings	SPEC(deeleigen)	-	-	-	-	-	MISC	(18|(19
+human_story_2	0	1	back	SPEC(deeleigen)	-	-	-	-	-	MISC	-
+human_story_2	0	2	sweet	SPEC(deeleigen)	-	-	-	-	-	MISC	19)
+human_story_2	0	3	memories	N(soort,mv,basis)	-	-	-	-	-	*	18)
+human_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	5	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Zou	WW(pv,verl,ev)	-	-	-	-	-	*	-
+human_story_2	0	2	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(20)
+human_story_2	0	3	nog	BW()	-	-	-	-	-	*	-
+human_story_2	0	4	bij	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	5	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(3)
+human_story_2	0	6	zijn	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_2	0	7	gebleven	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_2	0	8	?	LET()	-	-	-	-	-	*	-
+human_story_2	0	9	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_2	0	2	bedoel	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_2	0	3	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(20)
+human_story_2	0	4	?	LET()	-	-	-	-	-	*	-
+human_story_2	0	5	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Gewoon	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	Als	VG(onder)	-	-	-	-	-	*	-
+human_story_2	0	1	dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(19)
+human_story_2	0	2	niet	BW()	-	-	-	-	-	*	-
+human_story_2	0	3	gebeurd	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_2	0	4	was	WW(pv,verl,ev)	-	-	-	-	-	*	-
+human_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	Blijf	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_2	0	1	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(20)
+human_story_2	0	2	daarom	BW()	-	-	-	-	-	*	-
+human_story_2	0	3	bij	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	4	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(3)
+human_story_2	0	5	?	LET()	-	-	-	-	-	*	-
+human_story_2	0	6	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Nee	TSW()	-	-	-	-	-	*	-
+human_story_2	0	2	schat	TSW()	-	-	-	-	-	*	-
+human_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	4	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Twaalf	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+human_story_2	0	2	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_2	0	3	weg	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	5	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Dood	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	2	,	LET()	-	-	-	-	-	*	-
+human_story_2	0	3	schat	TSW()	-	-	-	-	-	*	-
+human_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	Overleden	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+human_story_2	0	1	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	2	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Zeg	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_2	0	2	dat	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_2	0	3	niet	BW()	-	-	-	-	-	*	-
+human_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	5	’	LET()	-	-	-	-	-	*	-
+
+human_story_2	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_2	0	1	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(26
+human_story_2	0	2	leeg	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+human_story_2	0	3	bord	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+human_story_2	0	4	bij	VZ(init)	-	-	-	-	-	*	-
+human_story_2	0	5	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(27
+human_story_2	0	6	verjaardagsmaal	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	27)|26)
+human_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+human_story_2	0	8	’	LET()	-	-	-	-	-	*	-
+
+#end document

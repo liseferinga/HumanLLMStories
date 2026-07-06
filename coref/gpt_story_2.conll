@@ -1,0 +1,214 @@
+#begin document (gpt_story_2); part 000
+gpt_story_2	0	0	###	TW(hoofd,prenom,stan)	-	-	-	-	-	*	(0
+gpt_story_2	0	1	Onverwachte	SPEC(deeleigen)	-	-	-	-	-	PER	-
+gpt_story_2	0	2	Maaltijd	SPEC(deeleigen)	-	-	-	-	-	PER	0)
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	2	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	3	dit	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	(1)
+gpt_story_2	0	4	allemaal	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	5	?	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(2
+gpt_story_2	0	2	maaltijd	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	2)
+gpt_story_2	0	3	,	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	4	speciaal	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	5	voor	VZ(init)	-	-	-	-	-	*	-
+gpt_story_2	0	6	jou	VNW(pers,pron,obl,vol,2v,ev)	-	-	-	-	-	*	(3)
+gpt_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Heeft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gpt_story_2	0	2	het	LID(bep,stan,evon)	-	-	-	-	-	*	(4
+gpt_story_2	0	3	iets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	4)
+gpt_story_2	0	4	met	VZ(init)	-	-	-	-	-	*	-
+gpt_story_2	0	5	ons	VNW(bez,det,stan,vol,1,mv,prenom,zonder,evon)	-	-	-	-	-	*	(5|(6)
+gpt_story_2	0	6	gesprek	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	5)
+gpt_story_2	0	7	te	VZ(init)	-	-	-	-	-	*	-
+gpt_story_2	0	8	maken	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	9	?	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	10	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Misschien	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	Of	VG(neven)	-	-	-	-	-	*	-
+gpt_story_2	0	1	misschien	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	2	ook	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	3	niet	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	2	het	LID(bep,stan,evon)	-	-	-	-	-	*	(7
+gpt_story_2	0	3	vergif	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	7)
+gpt_story_2	0	4	?	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Denk	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	2	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(8)
+gpt_story_2	0	3	echt	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	4	dat	VG(onder)	-	-	-	-	-	*	-
+gpt_story_2	0	5	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(9)
+gpt_story_2	0	6	zo	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	7	ben	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	8	?	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	9	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Soms	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	weet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	3	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(10)
+gpt_story_2	0	4	niet	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	5	wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	6	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(10)
+gpt_story_2	0	7	moet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	8	denken	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	9	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	10	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Proef	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	2	maar	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	3	eerst	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	4	eens	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	5	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	6	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gpt_story_2	0	2	ziet	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gpt_story_2	0	3	er	VNW(aanw,adv-pron,stan,red,3,getal)	-	-	-	-	-	*	-
+gpt_story_2	0	4	goed	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	5	uit	VZ(fin)	-	-	-	-	-	*	-
+gpt_story_2	0	6	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	Te	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	1	goed	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	2	,	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	3	misschien	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	4	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(12)
+gpt_story_2	0	2	verzeker	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	3	je	VNW(pr,pron,obl,red,2v,getal)	-	-	-	-	-	*	(13)
+gpt_story_2	0	4	,	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	5	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gpt_story_2	0	6	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	7	veilig	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	8	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	9	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Waarom	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	deze	VNW(aanw,det,stan,prenom,met-e,rest)	-	-	-	-	-	*	(14
+gpt_story_2	0	3	geheimzinnigheid	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	14)
+gpt_story_2	0	4	?	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Omdat	VG(onder)	-	-	-	-	-	*	-
+gpt_story_2	0	2	sommige	VNW(onbep,det,stan,prenom,met-e,rest)	-	-	-	-	-	*	-
+gpt_story_2	0	3	dingen	N(soort,mv,basis)	-	-	-	-	-	*	-
+gpt_story_2	0	4	beter	ADJ(vrij,comp,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	5	smaken	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+gpt_story_2	0	6	met	VZ(init)	-	-	-	-	-	*	-
+gpt_story_2	0	7	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(15
+gpt_story_2	0	8	vleugje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	-
+gpt_story_2	0	9	mysterie	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	15)
+gpt_story_2	0	10	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	11	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(16)
+gpt_story_2	0	2	voel	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	3	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(16)
+gpt_story_2	0	4	niet	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	5	op	VZ(init)	-	-	-	-	-	*	-
+gpt_story_2	0	6	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(18|(16)
+gpt_story_2	0	7	gemak	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	18)
+gpt_story_2	0	8	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	9	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(20)
+gpt_story_2	0	2	wil	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	3	gewoon	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	4	iets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	5	goeds	ADJ(postnom,basis,met-s)	-	-	-	-	-	*	-
+gpt_story_2	0	6	doen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	7	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	8	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Waarom	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	nu	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	3	?	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	Waarom	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	1	vandaag	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	?	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	3	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Misschien	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	wilde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	3	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(21)
+gpt_story_2	0	4	gewoon	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	5	iets	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	6	anders	ADJ(postnom,basis,met-s)	-	-	-	-	-	*	-
+gpt_story_2	0	7	proberen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	8	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	9	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Dus	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	geen	VNW(onbep,det,stan,prenom,zonder,agr)	-	-	-	-	-	*	-
+gpt_story_2	0	3	bijbedoelingen	N(soort,mv,basis)	-	-	-	-	-	*	-
+gpt_story_2	0	4	?	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	5	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Alleen	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(22
+gpt_story_2	0	3	bedoeling	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	22)
+gpt_story_2	0	4	dat	VG(onder)	-	-	-	-	-	*	-
+gpt_story_2	0	5	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(23)
+gpt_story_2	0	6	ervan	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	7	geniet	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	8	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	9	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Oké	TSW()	-	-	-	-	-	*	-
+gpt_story_2	0	2	,	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	3	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(24)
+gpt_story_2	0	4	vertrouw	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	5	je	VNW(pr,pron,obl,red,2v,getal)	-	-	-	-	-	*	(25)
+gpt_story_2	0	6	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	Eén	TW(hoofd,prenom,stan)	-	-	-	-	-	*	(26
+gpt_story_2	0	1	hap	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	26)
+gpt_story_2	0	2	dan	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	3	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	4	"	LET()	-	-	-	-	-	*	-
+
+gpt_story_2	0	0	"	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	1	Meer	VNW(onbep,grad,stan,vrij,zonder,comp)	-	-	-	-	-	*	-
+gpt_story_2	0	2	krijg	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gpt_story_2	0	3	je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(27)
+gpt_story_2	0	4	niet	BW()	-	-	-	-	-	*	-
+gpt_story_2	0	5	nodig	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_2	0	6	.	LET()	-	-	-	-	-	*	-
+gpt_story_2	0	7	"	LET()	-	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,127 @@
+#begin document (gemini_story_8); part 000
+gemini_story_8	0	0	*	LET()	-	-	-	-	-	*	-
+gemini_story_8	0	1	*	LET()	-	-	-	-	-	*	-
+gemini_story_8	0	2	Smeltwater	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(0)
+gemini_story_8	0	3	*	LET()	-	-	-	-	-	*	-
+gemini_story_8	0	4	*	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(1
+gemini_story_8	0	1	eerste	TW(rang,prenom,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	2	zonnestralen	N(soort,mv,basis)	-	-	-	-	-	*	1)
+gemini_story_8	0	3	likten	WW(pv,verl,mv)	-	-	-	-	-	*	-
+gemini_story_8	0	4	gretig	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	5	aan	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	6	het	LID(bep,stan,evon)	-	-	-	-	-	*	(2
+gemini_story_8	0	7	vijverijs	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	2)
+gemini_story_8	0	8	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	Krokussen	N(soort,mv,basis)	-	-	-	-	-	*	(3)
+gemini_story_8	0	1	persten	WW(pv,verl,mv)	-	-	-	-	-	*	-
+gemini_story_8	0	2	zich	VNW(refl,pron,obl,red,3,getal)	-	-	-	-	-	*	(3)
+gemini_story_8	0	3	dwangmatig	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	4	door	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	5	de	LID(bep,stan,rest)	-	-	-	-	-	*	(5
+gemini_story_8	0	6	harde	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	7	aarde	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	5)
+gemini_story_8	0	8	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	Iedereen	VNW(onbep,pron,stan,vol,3p,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	1	vierde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	-
+gemini_story_8	0	3	lente	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	4	,	LET()	-	-	-	-	-	*	-
+gemini_story_8	0	5	maar	VG(neven)	-	-	-	-	-	*	-
+gemini_story_8	0	6	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(6)
+gemini_story_8	0	7	staarde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	8	zwetend	WW(od,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	9	door	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	10	het	LID(bep,stan,evon)	-	-	-	-	-	*	(7
+gemini_story_8	0	11	raam	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	7)
+gemini_story_8	0	12	naar	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	13	de	LID(bep,stan,rest)	-	-	-	-	-	*	(8
+gemini_story_8	0	14	krimpende	WW(od,prenom,met-e)	-	-	-	-	-	*	-
+gemini_story_8	0	15	witte	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	16	korst	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	17	op	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	18	het	LID(bep,stan,evon)	-	-	-	-	-	*	(9
+gemini_story_8	0	19	water	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	9)|8)
+gemini_story_8	0	20	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	Met	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	1	elke	VNW(onbep,det,stan,prenom,met-e,evz)	-	-	-	-	-	*	-
+gemini_story_8	0	2	graad	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	3	dat	VG(onder)	-	-	-	-	-	*	-
+gemini_story_8	0	4	de	LID(bep,stan,rest)	-	-	-	-	-	*	(10
+gemini_story_8	0	5	temperatuur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	10)
+gemini_story_8	0	6	steeg	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	7	,	LET()	-	-	-	-	-	*	-
+gemini_story_8	0	8	smolt	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	9	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(11|(6)
+gemini_story_8	0	10	redding	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	11)
+gemini_story_8	0	11	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(13
+gemini_story_8	0	1	stenen	N(soort,mv,basis)	-	-	-	-	-	*	-
+gemini_story_8	0	2	aan	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	3	zijn	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(14|(11)
+gemini_story_8	0	4	enkels	N(soort,mv,basis)	-	-	-	-	-	*	14)|13)
+gemini_story_8	0	5	waren	WW(pv,verl,mv)	-	-	-	-	-	*	-
+gemini_story_8	0	6	zwaar	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	7	,	LET()	-	-	-	-	-	*	-
+gemini_story_8	0	8	maar	VG(neven)	-	-	-	-	-	*	-
+gemini_story_8	0	9	de	LID(bep,stan,rest)	-	-	-	-	-	*	(16
+gemini_story_8	0	10	vijver	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	16)
+gemini_story_8	0	11	was	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	12	verdomd	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	13	ondiep	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	14	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(17
+gemini_story_8	0	1	vrolijke	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	2	merel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	17)
+gemini_story_8	0	3	begon	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	4	te	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	5	zingen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	6	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	Precies	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	1	op	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	2	dat	VNW(aanw,det,stan,prenom,zonder,evon)	-	-	-	-	-	*	-
+gemini_story_8	0	3	moment	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	4	zag	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	5	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(6)
+gemini_story_8	0	6	het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+gemini_story_8	0	7	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(19
+gemini_story_8	0	1	donkere	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	2	,	LET()	-	-	-	-	-	*	-
+gemini_story_8	0	3	vlezige	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	4	schaduw	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	19)
+gemini_story_8	0	5	tekende	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	6	zich	VNW(refl,pron,obl,red,3,getal)	-	-	-	-	-	*	(19)
+gemini_story_8	0	7	af	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_8	0	8	vlak	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_8	0	9	onder	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	10	het	LID(bep,stan,evon)	-	-	-	-	-	*	(21
+gemini_story_8	0	11	flinterdunne	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	12	ijs	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	21)
+gemini_story_8	0	13	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(22
+gemini_story_8	0	1	doffe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	2	krak	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	22)
+gemini_story_8	0	3	klonk	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	4	door	VZ(init)	-	-	-	-	-	*	-
+gemini_story_8	0	5	de	LID(bep,stan,rest)	-	-	-	-	-	*	(23
+gemini_story_8	0	6	tuin	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	23)
+gemini_story_8	0	7	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_8	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	-
+gemini_story_8	0	1	lente	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_8	0	2	gaf	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_8	0	3	hem	VNW(pers,pron,obl,vol,3,ev,masc)	-	-	-	-	-	*	(10)
+gemini_story_8	0	4	terug	BW()	-	-	-	-	-	*	-
+gemini_story_8	0	5	.	LET()	-	-	-	-	-	*	-
+
+#end document

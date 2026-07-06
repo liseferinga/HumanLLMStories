@@ -1,0 +1,127 @@
+#begin document (gpt_story_36); part 000
+gpt_story_36	0	0	###	TW(hoofd,prenom,stan)	-	-	-	-	-	*	(0
+gpt_story_36	0	1	De	SPEC(deeleigen)	-	-	-	-	-	PER	-
+gpt_story_36	0	2	Sprong	SPEC(deeleigen)	-	-	-	-	-	PER	0)
+
+gpt_story_36	0	0	Met	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	1	bevende	WW(od,prenom,met-e)	-	-	-	-	-	*	(1
+gpt_story_36	0	2	knieën	N(soort,mv,basis)	-	-	-	-	-	*	1)
+gpt_story_36	0	3	stond	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	4	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+gpt_story_36	0	5	aan	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(3
+gpt_story_36	0	7	rand	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	8	van	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	9	de	LID(bep,stan,rest)	-	-	-	-	-	*	(4
+gpt_story_36	0	10	klif	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	4)|3)
+gpt_story_36	0	11	,	LET()	-	-	-	-	-	*	-
+gpt_story_36	0	12	de	LID(bep,stan,rest)	-	-	-	-	-	*	(5
+gpt_story_36	0	13	oceaan	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	14	diep	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_36	0	15	beneden	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	16	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(6)|5)
+gpt_story_36	0	17	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(7
+gpt_story_36	0	1	wind	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	7)
+gpt_story_36	0	2	fluisterde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	3	verhalen	N(soort,mv,basis)	-	-	-	-	-	*	(8
+gpt_story_36	0	4	van	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	5	vrijheid	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(9)
+gpt_story_36	0	6	en	VG(neven)	-	-	-	-	-	*	-
+gpt_story_36	0	7	nieuwe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(10
+gpt_story_36	0	8	kansen	N(soort,mv,basis)	-	-	-	-	-	*	10)|8)
+gpt_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	Achter	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	1	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(9)
+gpt_story_36	0	2	lonkte	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	3	het	LID(bep,stan,evon)	-	-	-	-	-	*	(12
+gpt_story_36	0	4	vertrouwde	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	5	,	LET()	-	-	-	-	-	*	-
+gpt_story_36	0	6	maar	VG(neven)	-	-	-	-	-	*	-
+gpt_story_36	0	7	verstikkende	WW(od,prenom,met-e)	-	-	-	-	-	*	-
+gpt_story_36	0	8	dorp	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	12)
+gpt_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	Voor	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	1	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(9)
+gpt_story_36	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(14
+gpt_story_36	0	3	onzekere	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	4	zee	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	14)
+gpt_story_36	0	5	,	LET()	-	-	-	-	-	*	-
+gpt_story_36	0	6	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(15
+gpt_story_36	0	7	onbekende	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	8	horizon	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	15)
+gpt_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(9)
+gpt_story_36	0	1	sloot	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	2	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(17|(9)
+gpt_story_36	0	3	ogen	N(soort,mv,basis)	-	-	-	-	-	*	17)
+gpt_story_36	0	4	,	LET()	-	-	-	-	-	*	-
+gpt_story_36	0	5	ademde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	6	diep	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gpt_story_36	0	7	in	VZ(fin)	-	-	-	-	-	*	-
+gpt_story_36	0	8	en	VG(neven)	-	-	-	-	-	*	-
+gpt_story_36	0	9	sprong	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	10	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	IJswater	N(eigen,ev,basis,zijd,stan)	-	-	-	-	-	PER	(19)
+gpt_story_36	0	1	omhulde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	2	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(9)
+gpt_story_36	0	3	en	VG(neven)	-	-	-	-	-	*	-
+gpt_story_36	0	4	voor	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	5	een	LID(onbep,stan,agr)	-	-	-	-	-	*	-
+gpt_story_36	0	6	fractie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	7	van	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	8	een	LID(onbep,stan,agr)	-	-	-	-	-	*	-
+gpt_story_36	0	9	seconde	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	10	zweefde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	11	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(19)
+gpt_story_36	0	12	tussen	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	13	angst	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(22)
+gpt_story_36	0	14	en	VG(neven)	-	-	-	-	-	*	-
+gpt_story_36	0	15	hoop	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(23)
+gpt_story_36	0	16	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	Toen	BW()	-	-	-	-	-	*	-
+gpt_story_36	0	1	brak	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(19)
+gpt_story_36	0	3	het	LID(bep,stan,evon)	-	-	-	-	-	*	(25
+gpt_story_36	0	4	oppervlak	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	25)
+gpt_story_36	0	5	,	LET()	-	-	-	-	-	*	-
+gpt_story_36	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(26
+gpt_story_36	0	7	zon	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	8	op	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	9	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(27|(19)
+gpt_story_36	0	10	gezicht	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	27)|26)
+gpt_story_36	0	11	als	VG(onder)	-	-	-	-	-	*	-
+gpt_story_36	0	12	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(29
+gpt_story_36	0	13	zegen	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	29)
+gpt_story_36	0	14	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	Met	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	1	elke	VNW(onbep,det,stan,prenom,met-e,evz)	-	-	-	-	-	*	-
+gpt_story_36	0	2	slag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	3	versterkte	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	4	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(30|(19)
+gpt_story_36	0	5	besluit	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	30)
+gpt_story_36	0	6	.	LET()	-	-	-	-	-	*	-
+
+gpt_story_36	0	0	Ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(19)
+gpt_story_36	0	1	zwom	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gpt_story_36	0	2	naar	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	3	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(19)
+gpt_story_36	0	4	nieuwe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	5	leven	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	6	,	LET()	-	-	-	-	-	*	-
+gpt_story_36	0	7	het	LID(bep,stan,evon)	-	-	-	-	-	*	(34
+gpt_story_36	0	8	verleden	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+gpt_story_36	0	9	in	VZ(init)	-	-	-	-	-	*	-
+gpt_story_36	0	10	elke	VNW(onbep,det,stan,prenom,met-e,evz)	-	-	-	-	-	*	-
+gpt_story_36	0	11	druppel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	34)
+gpt_story_36	0	12	achterlatend	WW(od,vrij,zonder)	-	-	-	-	-	*	-
+gpt_story_36	0	13	.	LET()	-	-	-	-	-	*	-
+
+#end document

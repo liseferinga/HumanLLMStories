@@ -1,0 +1,128 @@
+#begin document (gemini_story_36); part 000
+gemini_story_36	0	0	Zwarte	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(0
+gemini_story_36	0	1	sneeuw	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	0)
+
+gemini_story_36	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(1
+gemini_story_36	0	1	as	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	2	van	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	3	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(2|(3)
+gemini_story_36	0	4	paspoort	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	2)|1)
+gemini_story_36	0	5	dwarrelt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_36	0	6	als	VG(onder)	-	-	-	-	-	*	-
+gemini_story_36	0	7	zwarte	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(0
+gemini_story_36	0	8	sneeuw	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	0)
+gemini_story_36	0	9	over	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	10	de	LID(bep,stan,rest)	-	-	-	-	-	*	(5
+gemini_story_36	0	11	reling	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	5)
+gemini_story_36	0	12	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	Het	LID(bep,stan,evon)	-	-	-	-	-	*	(6
+gemini_story_36	0	1	water	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	6)
+gemini_story_36	0	2	slikt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_36	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(7
+gemini_story_36	0	4	naam	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	7)
+gemini_story_36	0	5	'	LET()	-	-	-	-	9	*	-
+gemini_story_36	0	6	Sarah	N(eigen,ev,basis,zijd,stan)	-	-	-	-	9	PER	(8)
+gemini_story_36	0	7	'	LET()	-	-	-	-	9	*	-
+gemini_story_36	0	8	geruisloos	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_36	0	9	in	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_36	0	10	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+gemini_story_36	0	1	wrijf	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_36	0	2	over	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	3	het	LID(bep,stan,evon)	-	-	-	-	-	*	(10
+gemini_story_36	0	4	rauwe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	5	sneetje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	6	achter	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	7	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(11|(3)
+gemini_story_36	0	8	oor	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	11)|10)
+gemini_story_36	0	9	,	LET()	-	-	-	-	-	*	-
+gemini_story_36	0	10	de	LID(bep,stan,rest)	-	-	-	-	-	*	(13
+gemini_story_36	0	11	plek	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	13)
+gemini_story_36	0	12	waar	VNW(vb,adv-pron,obl,vol,3o,getal)	-	-	-	-	-	*	-
+gemini_story_36	0	13	gisteren	BW()	-	-	-	-	-	*	-
+gemini_story_36	0	14	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(14|(3)
+gemini_story_36	0	15	tracker	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	14)
+gemini_story_36	0	16	zat	WW(pv,verl,ev)	-	-	-	-	-	*	-
+gemini_story_36	0	17	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(16
+gemini_story_36	0	1	nachtwind	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	16)
+gemini_story_36	0	2	snijdt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_36	0	3	door	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	4	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(17|(3)
+gemini_story_36	0	5	trui	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	17)
+gemini_story_36	0	6	,	LET()	-	-	-	-	-	*	-
+gemini_story_36	0	7	maar	BW()	-	-	-	-	-	*	-
+gemini_story_36	0	8	voor	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	9	het	LID(bep,stan,evon)	-	-	-	-	-	*	-
+gemini_story_36	0	10	eerst	TW(rang,nom,zonder-n)	-	-	-	-	-	*	-
+gemini_story_36	0	11	rill	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(19)
+gemini_story_36	0	12	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+gemini_story_36	0	13	niet	BW()	-	-	-	-	-	*	-
+gemini_story_36	0	14	van	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	15	angst	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(21)
+gemini_story_36	0	16	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	In	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	1	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(22|(3)
+gemini_story_36	0	2	jaszak	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	22)
+gemini_story_36	0	3	brandt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_36	0	4	het	LID(bep,stan,evon)	-	-	-	-	-	*	(24
+gemini_story_36	0	5	harde	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	6	plastic	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	7	van	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	8	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(25
+gemini_story_36	0	9	verse	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	10	identiteitskaart	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	25)|24)
+gemini_story_36	0	11	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	'	LET()	-	-	-	-	27	*	-
+gemini_story_36	0	1	Elena	N(eigen,ev,basis,zijd,stan)	-	-	-	-	27	PER	(26)
+gemini_story_36	0	2	,	LET()	-	-	-	-	27	*	-
+gemini_story_36	0	3	'	LET()	-	-	-	-	27	*	-
+gemini_story_36	0	4	fluister	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+gemini_story_36	0	5	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+gemini_story_36	0	6	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(28
+gemini_story_36	0	1	klank	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	28)
+gemini_story_36	0	2	proeft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_36	0	3	vreemd	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_36	0	4	op	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	5	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(29|(3)
+gemini_story_36	0	6	tong	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	29)
+gemini_story_36	0	7	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(31
+gemini_story_36	0	1	motor	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	2	van	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(32
+gemini_story_36	0	4	veerboot	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	32)|31)
+gemini_story_36	0	5	valt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_36	0	6	stil	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_36	0	7	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	Met	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	1	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(33
+gemini_story_36	0	2	doffe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	-
+gemini_story_36	0	3	dreun	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	33)
+gemini_story_36	0	4	zakt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_36	0	5	de	LID(bep,stan,rest)	-	-	-	-	-	*	(34
+gemini_story_36	0	6	stalen	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_36	0	7	klep	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	34)
+gemini_story_36	0	8	op	VZ(init)	-	-	-	-	-	*	-
+gemini_story_36	0	9	het	LID(bep,stan,evon)	-	-	-	-	-	*	(35
+gemini_story_36	0	10	beton	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	35)
+gemini_story_36	0	11	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	Een	LID(onbep,stan,agr)	-	-	-	-	-	*	(36
+gemini_story_36	0	1	stap	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	36)
+gemini_story_36	0	2	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_36	0	0	Nog	BW()	-	-	-	-	-	*	-
+gemini_story_36	0	1	een	TW(hoofd,nom,zonder-n,basis)	-	-	-	-	-	*	(37)
+gemini_story_36	0	2	.	LET()	-	-	-	-	-	*	-
+
+#end document

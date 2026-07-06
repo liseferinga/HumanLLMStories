@@ -1,0 +1,156 @@
+#begin document (claude_story_36); part 000
+claude_story_36	0	0	*	LET()	-	-	-	-	-	*	-
+claude_story_36	0	1	*	LET()	-	-	-	-	-	*	-
+claude_story_36	0	2	De	LID(bep,stan,rest)	-	-	-	-	-	*	-
+claude_story_36	0	3	laatste	ADJ(prenom,sup,met-e,stan)	-	-	-	-	-	*	-
+claude_story_36	0	4	eerste	TW(rang,prenom,stan)	-	-	-	-	-	*	-
+claude_story_36	0	5	dag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_36	0	6	*	LET()	-	-	-	-	-	*	-
+claude_story_36	0	7	*	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(0|(1)
+claude_story_36	0	1	dochter	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	0)
+claude_story_36	0	2	stuurt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_36	0	3	geen	VNW(onbep,det,stan,prenom,zonder,agr)	-	-	-	-	-	*	-
+claude_story_36	0	4	foto's	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_36	0	5	meer	VNW(onbep,grad,stan,vrij,zonder,comp)	-	-	-	-	-	*	-
+claude_story_36	0	6	van	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	7	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(0)
+claude_story_36	0	8	eerste	TW(rang,prenom,stan)	-	-	-	-	-	*	-
+claude_story_36	0	9	schooldag	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_36	0	10	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Vandaag	BW()	-	-	-	-	-	*	-
+claude_story_36	0	1	begint	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_36	0	2	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+claude_story_36	0	3	aan	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	4	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(4|(0)
+claude_story_36	0	5	masteropleiding	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	4)
+claude_story_36	0	6	–	LET()	-	-	-	-	-	*	-
+claude_story_36	0	7	zesentwintig	TW(hoofd,prenom,stan)	-	-	-	-	-	*	-
+claude_story_36	0	8	jaar	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_36	0	9	oud	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	10	,	LET()	-	-	-	-	-	*	-
+claude_story_36	0	11	dezelfde	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	(6
+claude_story_36	0	12	leeftijd	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+claude_story_36	0	13	als	VG(onder)	-	-	-	-	-	*	-
+claude_story_36	0	14	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(1)|6)
+claude_story_36	0	15	toen	VG(onder)	-	-	-	-	-	*	-
+claude_story_36	0	16	ze	VNW(pers,pron,stan,red,3,ev,fem)	-	-	-	-	-	*	(0)
+claude_story_36	0	17	geboren	WW(vd,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	18	werd	WW(pv,verl,ev)	-	-	-	-	-	*	-
+claude_story_36	0	19	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	De	LID(bep,stan,rest)	-	-	-	-	-	*	(9
+claude_story_36	0	1	keuken	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	9)
+claude_story_36	0	2	ruikt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_36	0	3	niet	BW()	-	-	-	-	-	*	-
+claude_story_36	0	4	naar	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	5	nieuwe	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(10
+claude_story_36	0	6	brooddozen	N(soort,mv,basis)	-	-	-	-	-	*	10)
+claude_story_36	0	7	en	VG(neven)	-	-	-	-	-	*	-
+claude_story_36	0	8	viltstiften	N(soort,mv,basis)	-	-	-	-	-	*	(11)
+claude_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Geen	VNW(onbep,det,stan,prenom,zonder,agr)	-	-	-	-	-	*	-
+claude_story_36	0	1	nerveus	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	2	gegiechel	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_36	0	3	bij	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	4	de	LID(bep,stan,rest)	-	-	-	-	-	*	(12
+claude_story_36	0	5	deur	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	12)
+claude_story_36	0	6	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Geen	VNW(onbep,det,stan,nom,zonder,zonder-n)	-	-	-	-	-	*	-
+claude_story_36	0	1	"	LET()	-	-	-	-	-	*	-
+claude_story_36	0	2	Mama	TSW()	-	-	-	-	-	*	-
+claude_story_36	0	3	,	LET()	-	-	-	-	-	*	-
+claude_story_36	0	4	wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_36	0	5	als	VG(onder)	-	-	-	-	-	*	-
+claude_story_36	0	6	niemand	VNW(onbep,pron,stan,vol,3p,ev)	-	-	-	-	-	*	-
+claude_story_36	0	7	met	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	8	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(13)
+claude_story_36	0	9	wil	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_36	0	10	spelen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	11	?	LET()	-	-	-	-	-	*	-
+claude_story_36	0	12	"	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(1)
+claude_story_36	0	1	scroll	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_36	0	2	door	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	3	oude	ADJ(prenom,basis,met-e,stan)	-	-	-	-	-	*	(15
+claude_story_36	0	4	foto's	N(soort,mv,basis)	-	-	-	-	-	*	15)
+claude_story_36	0	5	:	LET()	-	-	-	-	-	*	-
+claude_story_36	0	6	haar	VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)	-	-	-	-	-	*	(16|(12)
+claude_story_36	0	7	eerste	TW(rang,prenom,stan)	-	-	-	-	-	*	-
+claude_story_36	0	8	stapjes	N(soort,mv,dim)	-	-	-	-	-	*	16)
+claude_story_36	0	9	,	LET()	-	-	-	-	-	*	-
+claude_story_36	0	10	eerste	TW(rang,prenom,stan)	-	-	-	-	-	*	(18
+claude_story_36	0	11	woordjes	N(soort,mv,dim)	-	-	-	-	-	*	18)
+claude_story_36	0	12	,	LET()	-	-	-	-	-	*	-
+claude_story_36	0	13	eerste	TW(rang,prenom,stan)	-	-	-	-	-	*	(19
+claude_story_36	0	14	alles	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	19)
+claude_story_36	0	15	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(20|(1)
+claude_story_36	0	1	telefoon	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	20)
+claude_story_36	0	2	trilt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+claude_story_36	0	3	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	"	LET()	-	-	-	-	-	*	-
+claude_story_36	0	1	Mam	TSW()	-	-	-	-	-	*	-
+claude_story_36	0	2	,	LET()	-	-	-	-	-	*	-
+claude_story_36	0	3	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(22)
+claude_story_36	0	4	sta	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_36	0	5	voor	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(23
+claude_story_36	0	7	universiteit	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	23)
+claude_story_36	0	8	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Ben	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_36	0	1	doodsbang	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	2	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+claude_story_36	0	1	als	VG(onder)	-	-	-	-	-	*	-
+claude_story_36	0	2	niemand	VNW(onbep,pron,stan,vol,3p,ev)	-	-	-	-	-	*	-
+claude_story_36	0	3	met	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	4	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(22)
+claude_story_36	0	5	wil	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_36	0	6	praten	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	7	?	LET()	-	-	-	-	-	*	-
+claude_story_36	0	8	"	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(1)
+claude_story_36	0	1	glimlach	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_36	0	2	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Sommige	VNW(onbep,det,stan,prenom,met-e,rest)	-	-	-	-	-	*	-
+claude_story_36	0	1	dingen	N(soort,mv,basis)	-	-	-	-	-	*	-
+claude_story_36	0	2	veranderen	WW(pv,tgw,mv)	-	-	-	-	-	*	-
+claude_story_36	0	3	nooit	BW()	-	-	-	-	-	*	-
+claude_story_36	0	4	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	"	LET()	-	-	-	-	27	*	-
+claude_story_36	0	1	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	27	*	(26)
+claude_story_36	0	2	bent	WW(pv,tgw,met-t)	-	-	-	-	27	*	-
+claude_story_36	0	3	perfect	ADJ(vrij,basis,zonder)	-	-	-	-	27	*	-
+claude_story_36	0	4	,	LET()	-	-	-	-	27	*	-
+claude_story_36	0	5	"	LET()	-	-	-	-	27	*	-
+claude_story_36	0	6	typ	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+claude_story_36	0	7	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(1)
+claude_story_36	0	8	terug	BW()	-	-	-	-	-	*	-
+claude_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+claude_story_36	0	0	Mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(1)
+claude_story_36	0	1	nieuw	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	2	begin	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	-
+claude_story_36	0	3	:	LET()	-	-	-	-	-	*	-
+claude_story_36	0	4	haar	VNW(pers,pron,obl,vol,3,getal,fem)	-	-	-	-	-	*	(23)
+claude_story_36	0	5	loslaten	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	6	zonder	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	7	los	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	8	te	VZ(init)	-	-	-	-	-	*	-
+claude_story_36	0	9	laten	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+claude_story_36	0	10	.	LET()	-	-	-	-	-	*	-
+
+#end document

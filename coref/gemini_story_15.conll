@@ -1,0 +1,27 @@
+#begin document (gemini_story_15); part 000
+gemini_story_15	0	0	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(0)
+gemini_story_15	0	1	bent	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_15	0	2	klaar	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_15	0	3	met	VZ(init)	-	-	-	-	-	*	-
+gemini_story_15	0	4	de	LID(bep,stan,rest)	-	-	-	-	-	*	(1
+gemini_story_15	0	5	survey	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	1)
+gemini_story_15	0	6	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_15	0	0	Je	VNW(pers,pron,nomin,red,2v,ev)	-	-	-	-	-	*	(0)
+gemini_story_15	0	1	kunt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+gemini_story_15	0	2	de	LID(bep,stan,rest)	-	-	-	-	-	*	(3
+gemini_story_15	0	3	volgende	WW(od,prenom,met-e)	-	-	-	-	-	*	-
+gemini_story_15	0	4	vragen	N(soort,mv,basis)	-	-	-	-	-	*	3)
+gemini_story_15	0	5	negeren	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_15	0	6	.	LET()	-	-	-	-	-	*	-
+
+gemini_story_15	0	0	Druk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+gemini_story_15	0	1	op	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_15	0	2	→	LET()	-	-	-	-	-	*	-
+gemini_story_15	0	3	om	VZ(init)	-	-	-	-	-	*	-
+gemini_story_15	0	4	af	VZ(fin)	-	-	-	-	-	*	-
+gemini_story_15	0	5	te	VZ(init)	-	-	-	-	-	*	-
+gemini_story_15	0	6	sluiten	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+gemini_story_15	0	7	.	LET()	-	-	-	-	-	*	-
+
+#end document

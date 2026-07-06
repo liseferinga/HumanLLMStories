@@ -1,0 +1,136 @@
+#begin document (human_story_36); part 000
+human_story_36	0	0	NAT	SPEC(deeleigen)	-	-	-	-	-	ORG	(0
+human_story_36	0	1	Ik	SPEC(deeleigen)	-	-	-	-	-	ORG	0)
+human_story_36	0	2	ga	WW(pv,conj,ev)	-	-	-	-	-	*	-
+human_story_36	0	3	op	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	4	de	LID(bep,stan,rest)	-	-	-	-	-	*	(1
+human_story_36	0	5	fiets	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	1)
+human_story_36	0	6	naar	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	7	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(2|(3)
+human_story_36	0	8	sollicitatiegesprek	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	2)
+human_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+human_story_36	0	1	is	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_36	0	2	maar	BW()	-	-	-	-	-	*	-
+human_story_36	0	3	acht	TW(hoofd,prenom,stan)	-	-	-	-	-	*	(4
+human_story_36	0	4	kilometer	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	4)
+human_story_36	0	5	en	VG(neven)	-	-	-	-	-	*	-
+human_story_36	0	6	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+human_story_36	0	7	heb	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_36	0	8	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(6
+human_story_36	0	9	poncho	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	6)
+human_story_36	0	10	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Dat	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_36	0	1	staat	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	2	heel	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_36	0	3	‘	LET()	-	-	-	-	-	*	-
+human_story_36	0	4	duurzaam	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_36	0	5	’	LET()	-	-	-	-	-	*	-
+human_story_36	0	6	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Het	VNW(pers,pron,stan,red,3,ev,onz)	-	-	-	-	-	*	-
+human_story_36	0	1	plenst	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	2	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+human_story_36	0	1	meld	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_36	0	2	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(3)
+human_story_36	0	3	druipend	WW(od,vrij,zonder)	-	-	-	-	-	*	-
+human_story_36	0	4	bij	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	5	de	LID(bep,stan,rest)	-	-	-	-	-	*	(9
+human_story_36	0	6	receptie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	9)
+human_story_36	0	7	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_36	0	1	Eerst	BW()	-	-	-	-	-	*	-
+human_story_36	0	2	opwarmen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_36	0	3	’	LET()	-	-	-	-	-	*	-
+human_story_36	0	4	,	LET()	-	-	-	-	-	*	-
+human_story_36	0	5	knipoogt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(10
+human_story_36	0	7	recruiter	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	10)
+human_story_36	0	8	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Hij	VNW(pers,pron,nomin,vol,3,ev,masc)	-	-	-	-	-	*	(10)
+human_story_36	0	1	geeft	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	2	me	VNW(pr,pron,obl,red,1,ev)	-	-	-	-	-	*	(3)
+human_story_36	0	3	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(13
+human_story_36	0	4	milieubewust	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+human_story_36	0	5	kartonnen	ADJ(prenom,basis,zonder)	-	-	-	-	-	*	-
+human_story_36	0	6	bekertje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	-
+human_story_36	0	7	met	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	8	koffie	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	(14)|13)
+human_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+human_story_36	0	1	laat	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_36	0	2	voetafdrukken	N(soort,mv,basis)	-	-	-	-	-	*	(16)
+human_story_36	0	3	achter	VZ(fin)	-	-	-	-	-	*	-
+human_story_36	0	4	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	In	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	1	een	LID(onbep,stan,agr)	-	-	-	-	-	*	(17
+human_story_36	0	2	poging	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	17)
+human_story_36	0	3	de	LID(bep,stan,rest)	-	-	-	-	-	*	(18
+human_story_36	0	4	rangorde	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	18)
+human_story_36	0	5	te	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	6	herstellen	WW(inf,vrij,zonder)	-	-	-	-	-	*	-
+human_story_36	0	7	,	LET()	-	-	-	-	-	*	-
+human_story_36	0	8	draai	WW(pv,tgw,ev)	-	-	-	-	-	*	-
+human_story_36	0	9	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+human_story_36	0	10	met	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	11	mijn	VNW(bez,det,stan,vol,1,ev,prenom,zonder,agr)	-	-	-	-	-	*	(20|(3)
+human_story_36	0	12	wijsvinger	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	20)
+human_story_36	0	13	onopvallend	WW(od,vrij,zonder)	-	-	-	-	-	*	-
+human_story_36	0	14	rondjes	N(soort,mv,dim)	-	-	-	-	-	*	-
+human_story_36	0	15	over	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	16	de	LID(bep,stan,rest)	-	-	-	-	-	*	(22
+human_story_36	0	17	rand	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_36	0	18	van	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	19	het	LID(bep,stan,evon)	-	-	-	-	-	*	(13
+human_story_36	0	20	bekertje	N(soort,ev,dim,onz,stan)	-	-	-	-	-	*	13)|22)
+human_story_36	0	21	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Dat	VNW(aanw,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_36	0	1	leerde	WW(pv,verl,ev)	-	-	-	-	-	*	-
+human_story_36	0	2	ik	VNW(pers,pron,nomin,vol,1,ev)	-	-	-	-	-	*	(3)
+human_story_36	0	3	ooit	BW()	-	-	-	-	-	*	-
+human_story_36	0	4	bij	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	5	een	LID(onbep,stan,agr)	-	-	-	-	-	*	-
+human_story_36	0	6	cursus	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	-
+human_story_36	0	7	Zakelijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_36	0	8	Flirten	WW(inf,nom,zonder,zonder-n)	-	-	-	-	-	*	-
+human_story_36	0	9	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	Dat	VNW(aanw,det,stan,prenom,zonder,evon)	-	-	-	-	-	*	(25
+human_story_36	0	1	ding	N(soort,ev,basis,onz,stan)	-	-	-	-	-	*	25)
+human_story_36	0	2	kiept	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	3	natuurlijk	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_36	0	4	om	VZ(fin)	-	-	-	-	-	*	-
+human_story_36	0	5	;	LET()	-	-	-	-	-	*	-
+human_story_36	0	6	alles	VNW(onbep,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_36	0	7	over	VZ(init)	-	-	-	-	-	*	-
+human_story_36	0	8	de	LID(bep,stan,rest)	-	-	-	-	-	*	(26
+human_story_36	0	9	tafel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	26)
+human_story_36	0	10	.	LET()	-	-	-	-	-	*	-
+
+human_story_36	0	0	‘	LET()	-	-	-	-	-	*	-
+human_story_36	0	1	Wat	VNW(vb,pron,stan,vol,3o,ev)	-	-	-	-	-	*	-
+human_story_36	0	2	vindt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	3	u	VNW(pers,pron,nomin,vol,2b,getal)	-	-	-	-	-	*	(27)
+human_story_36	0	4	ervan	BW()	-	-	-	-	-	*	-
+human_story_36	0	5	dat	VG(onder)	-	-	-	-	-	*	-
+human_story_36	0	6	de	LID(bep,stan,rest)	-	-	-	-	-	*	(28
+human_story_36	0	7	zeespiegel	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	28)
+human_story_36	0	8	stijgt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	9	?	LET()	-	-	-	-	-	*	-
+human_story_36	0	10	’	LET()	-	-	-	-	-	*	-
+human_story_36	0	11	vraagt	WW(pv,tgw,met-t)	-	-	-	-	-	*	-
+human_story_36	0	12	de	LID(bep,stan,rest)	-	-	-	-	-	*	(10
+human_story_36	0	13	recruiter	N(soort,ev,basis,zijd,stan)	-	-	-	-	-	*	10)
+human_story_36	0	14	droog	ADJ(vrij,basis,zonder)	-	-	-	-	-	*	-
+human_story_36	0	15	.	LET()	-	-	-	-	-	*	-
+
+#end document
